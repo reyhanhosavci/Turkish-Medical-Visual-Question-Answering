@@ -1,7 +1,9 @@
 # Turkish Medical Visual Question Answering (TR VQA-Med)
 
 **Paper title:**  
+
 *Turkish Medical Visual Question Answering: Benchmarking Vision–Language Encoders and Contrastive Alignment*
+
 This work has been accepted for presentation at the 2026 International Conference on Machine Learning Technologies (ICMLT 2026).
 ---
 
