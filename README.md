@@ -1,6 +1,11 @@
-# Turkish Medical Visual Question Answer Answering (TR VQA-Med)
+# Turkish Medical Visual Question Answering (TR VQA-Med)
 
-This repository provides experimental pipelines for **Turkish Medical Visual Question Answering (VQA-Med)** based on the **ImageCLEF 2019 VQA-Med** task formulation.  
+**Paper title:**  
+*Turkish Medical Visual Question Answering: Benchmarking Vision–Language Encoders and Contrastive Alignment*
+This work has been accepted for presentation at the 2026 International Conference on Machine Learning Technologies (ICMLT 2026).
+---
+
+This repository provides experimental pipelines for **Turkish Medical Visual Question Answering (TR VQA-Med)** based on the **ImageCLEF 2019 VQA-Med** task formulation.  
 The project focuses on **multimodal fusion of medical images and Turkish clinical questions**, supporting baseline training, partial fine-tuning of language models, and contrastive pretraining for image–text alignment.
 
 The primary objective is to investigate how different **vision encoders** and **Turkish-compatible language models** interact in a classification-based VQA setting.
@@ -20,6 +25,13 @@ The primary objective is to investigate how different **vision encoders** and **
 This repository is intended for **research and experimental purposes**.
 
 ---
+## Dataset Design Rationale
+
+The ImageCLEF VQA-Med 2019 dataset defines four question categories: Modality, Plane, Organ System, and Abnormality. In this study, we focus only on Modality, Plane, and Organ System questions and exclude Abnormality.
+
+This choice is motivated by our formulation of the task as a **classification-based VQA problem**. The selected three categories correspond to a **closed and well-defined answer set**, whereas Abnormality questions involve open-ended, free-text answers that are more suited to generative VQA models.
+
+After removing the Abnormality category, the dataset forms a **67-class classification task**, enabling controlled and fair evaluation of multimodal vision–language models.
 
 ## Dataset Format
 
@@ -39,6 +51,8 @@ synpic54082|hangi modalite gösterilmektedir?|bilgisayarlı tomografi
 ---
 
 ## Recommended Directory Structure
+
+```text
 Turkish-Medical-Visual-Question-Answering/
 │
 ├── main_TR_r.py
@@ -47,22 +61,23 @@ Turkish-Medical-Visual-Question-Answering/
 ├── README.md
 │
 ├── VQA_Med_TR/
-│ ├── C1C2C3_train.txt
-│ ├── C1C2C3_val.txt
-│ └── C1C2C3_test.txt
+│   ├── C1C2C3_train.txt
+│   ├── C1C2C3_val.txt
+│   └── C1C2C3_test.txt
 │
 ├── ImageClef-2019-VQA-Med-Training/
-│ └── Train_images/
-│ └── synpicXXXXX.jpg
+│   └── Train_images/
+│       └── synpicXXXXX.jpg
 │
 ├── ImageClef-2019-VQA-Med-Validation/
-│ └── Val_images/
+│   └── Val_images/
 │
 ├── ImageClef-2019-VQA-Med-Test/
-│ └── Test_images/
+│   └── Test_images/
 │
 ├── models/
 └── results/
+```
 
 
 ---
@@ -105,17 +120,6 @@ Introduces an additional **contrastive pretraining stage** prior to VQA classifi
 - Jointly optimizes visual encoders, partially unfrozen language encoders, fusion layers, and the classifier
 - Computes classification metrics (accuracy, macro/weighted precision, recall, F1-score)
 - Saves trained model checkpoints and evaluation reports to disk
-
----
-
-## Model Architecture (High-Level)
-
-1. Image Encoder (CNN / ViT)
-2. Text Encoder (Transformer-based)
-3. Projection Heads (optional)
-4. Multimodal Fusion (concatenation)
-5. MLP Classifier
-6. Answer Class Prediction
 
 ---
 
