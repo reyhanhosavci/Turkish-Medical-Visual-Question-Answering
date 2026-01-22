@@ -127,7 +127,7 @@ Introduces an additional **contrastive pretraining stage** prior to VQA classifi
 
 ## Installation
 
-Python 3.9+ is recommended.
+Python 3.8.3 is recommended.
 
 Main dependencies include:
 
