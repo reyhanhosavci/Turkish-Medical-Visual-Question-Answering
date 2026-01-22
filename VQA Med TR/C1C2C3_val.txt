@@ -1,0 +1,1500 @@
+synpic54733|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|bt (kontrastlı) (iv)
+synpic25647|bu ne tür bir tarama?|röntgen
+synpic35681|mrg kontrastlı mı çekildi?|hayır
+synpic39641|bu t1, t2 veya flair ağırlıklı bir görüntü mü?|t2
+synpic35693|bu kontrastsız bir mrg mi?|evet
+synpic17419|hastaya iv kontrast verildi mi?|evet
+synpic32909|bu hastaya ne tür kontrast uygulandı?|iv
+synpic48040|bt taraması kontrastlı mı çekildi?|hayır
+synpic48351|bu görüntü ne ile çekildi?|röntgen
+synpic49503|bt taraması kontrastlı mı çekildi?|hayır
+synpic18176|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|bt (kontrastlı) (iv)
+synpic36498|ne tür görüntüleme modalitesi gösteriliyor?|röntgen
+synpic26850|bu bir bt taraması mı?|hayır
+synpic19508|bu kontrastlı mı yoksa kontrastsız bir bt mi?|kontrastlı
+synpic23496|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - t1a - kontrastsız
+synpic25435|bu t1, t2 veya flair ağırlıklı bir görüntü mü?|t2
+synpic38894|bu kontrastsız bir bt mi?|hayır
+synpic25620|modalite nedir?|röntgen
+synpic25634|hangi görüntüleme yöntemi kullanıldı?|röntgen
+synpic36490|bu ne tür bir görüntülemedir?|röntgen
+synpic40658|bu t2 ağırlıklı bir görüntü mü?|hayır
+synpic27614|bu ne tür bir görüntü?|röntgen
+synpic26245|bu bir bt taraması mı?|hayır
+synpic25628|hangi görüntüleme yöntemi kullanıldı?|röntgen
+synpic34446|bu bir bt taraması mı?|hayır
+synpic28899|bu ne tür bir tarama?|röntgen
+synpic28331|bu ne tür bir görüntülemeyi temsil ediyor?|us - ultrason
+synpic55791|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - t2 ağırlıklı
+synpic32867|bt taraması kontrastlı mı çekildi?|hayır
+synpic21201|bu görüntü ne ile çekildi?|röntgen
+synpic20686|bu ne tür bir görüntü?|mamografi
+synpic17412|bu kontrastsız bir bt mi?|hayır
+synpic53907|bu kontrastlı mı yoksa kontrastsız bir bt mi?|kontrastsız
+synpic24024|bu görüntü hangi modalitede çekildi?|us - ultrason
+synpic59540|ne tür görüntüleme modalitesi gösteriliyor?|mr - adc haritasi (uygulama fark katsayisi)
+synpic19169|bu görüntü t1, t2 veya flair modalitesinde mi?|t2
+synpic52424|bt taraması kontrastlı mı çekildi?|hayır
+synpic52430|bu görüntü t1, t2 veya flair modalitesinde mi?|t2
+synpic51878|ne tür görüntüleme modalitesi gösteriliyor?|mr - diğer nabiz sekanslari
+synpic25109|bu t1, t2 veya flair ağırlıklı bir görüntü mü?|t2
+synpic21186|bu ne tür bir görüntü?|röntgen
+synpic52140|bu kontrastlı mı yoksa kontrastsız bir bt mi?|kontrastlı
+synpic32893|ne tür görüntüleme modalitesi gösteriliyor?|röntgen
+synpic25451|bu görüntü hangi modaliteyle çekildi?|röntgen
+synpic18101|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|röntgen
+synpic18115|bu görüntüdeki mr ağırlığı nedir?|t2
+synpic17583|bu ne tür bir tarama?|röntgen
+synpic100295|bu ne tür bir görüntüleme modalitesidir?|us - ultrason
+synpic46243|mrg kontrastlı mı çekildi?|evet
+synpic38951|hangi görüntüleme modalitesi kullanılıyor?|röntgen
+synpic60290|bu bir bt taraması mı?|evet
+synpic17970|ne tür görüntüleme modalitesi görülüyor?|röntgen
+synpic17780|görüntü nasıl çekildi?|be - baryumlu lavman
+synpic28216|hangi görüntüleme yöntemi kullanıldı?|ugi - üst gi
+synpic31753|bu kontrastsız bir bt mi?|hayır
+synpic16475|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|bt (kontrastlı) (iv)
+synpic38575|bu t1, t2 veya flair ağırlıklı bir görüntü mü?|t1
+synpic41707|mrg kontrastlı mı çekildi?|evet
+synpic26950|burada hangi görüntüleme modalitesi görülüyor?|bas - baryumlu yutma
+synpic18921|ne tür görüntüleme modalitesi görülüyor?|us - ultrason
+synpic29054|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|röntgen
+synpic56870|bu bir bt taraması mı?|hayır
+synpic21385|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - diğer nabiz sekanslari
+synpic57577|bu görüntü nasıl çekildi?|an - anjiyografi
+synpic40779|bt taraması kontrastlı mı çekildi?|evet
+synpic49985|bu bir bt taraması mı?|evet
+synpic50556|bu bir bt taraması mı?|evet
+synpic57239|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - flair
+synpic54730|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|bt (kontrastlı) (iv)
+synpic52631|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - t2 ağırlıklı
+synpic28837|bu kontrastlı mı yoksa kontrastsız bir bt mi?|kontrastsız
+synpic39709|mrg kontrastlı mı çekildi?|evet
+synpic61204|burada hangi görüntüleme modalitesi görülüyor?|röntgen
+synpic27523|ne tür görüntüleme modalitesi gösteriliyor?|bt (kontrastlı) (iv)
+synpic61238|bu bir bt taraması mı?|evet
+synpic58532|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - gadolinyumlu t1a
+synpic45577|bu bir mrg görüntüsü mü?|hayır
+synpic39696|bu görüntüdeki mr ağırlığı nedir?|t1
+synpic23157|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr t2* gradyanı, gre, mpgr, swan, swi
+synpic23631|bu kontrastlı mı yoksa kontrastsız bir bt mi?|kontrastsız
+synpic27319|bu görüntü nasıl çekildi?|röntgen
+synpic51072|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - t1a - kontrastsız
+synpic53659|bu bir mrg görüntüsü mü?|evet
+synpic58095|bu bir mrg görüntüsü mü?|hayır
+synpic60250|bu t1, t2 veya flair ağırlıklı bir görüntü mü?|t2
+synpic40194|bu kontrastlı mı yoksa kontrastsız bir bt mi?|kontrastsız
+synpic29645|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - t2 ağırlıklı
+synpic31036|hastaya gi kontrastı verildi mi?|hayır
+synpic33806|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - t2 ağırlıklı
+synpic27873|bu görüntü hangi modaliteyle çekildi?|mamografi
+synpic38953|bu görüntü nasıl çekildi?|röntgen
+synpic49172|bu resmi elde etmek için hangi görüntüleme modalitesi kullanıldı?|mr - pdw proton yoğunluğu
+synpic59407|bu t1 ağırlıklı bir görüntü mü?|hayır
+synpic43477|bu ne tür bir görüntülemeyi temsil ediyor?|röntgen
+synpic53314|bu bir mrg görüntüsü mü?|evet
+synpic46876|görüntü nasıl çekiliyor?|röntgen
+synpic28188|bu görüntüde ne tür bir görüntüleme modalitesi görülüyor?|röntgen
+synpic47573|mrg kontrastlı mı çekildi?|hayır
+synpic30260|bu ne tür bir görüntülemedir?|an - anjiyografi
+synpic45827|bu t1, t2 veya flair ağırlıklı bir görüntü mü?|t2
+synpic27046|bu t1, t2 veya flair ağırlıklı bir görüntü mü?|t2
+synpic20729|bu kontrastlı mı yoksa kontrastsız bir bt mi?|kontrastsız
+synpic30248|bu kontrastsız bir bt mi?|hayır
+synpic53738|bu görüntü t1, t2 veya flair modalitesinde mi?|t2
+synpic17620|hastaya gi kontrastı verildi mi?|hayır
+synpic47017|bu t2 ağırlıklı bir görüntü mü?|hayır
+synpic41314|bu t1, t2 veya flair ağırlıklı bir görüntü mü?|t2
+synpic55403|bu kontrastlı mı yoksa kontrastsız bir bt mi?|kontrastsız
+synpic27730|bu görüntü hangi modaliteyle çekildi?|us - ultrason
+synpic58682|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - gadolinyumlu t1a
+synpic50023|bu ne tür bir görüntülemeyi temsil ediyor?|röntgen
+synpic57758|bu bir mrg görüntüsü mü?|evet
+synpic19225|görüntü nasıl çekildi?|mr - flair
+synpic16880|ne tür görüntüleme modalitesi görülüyor?|röntgen
+synpic48730|bu bir mrg görüntüsü mü?|hayır
+synpic21786|bt taraması kontrastlı mı çekildi?|hayır
+synpic25090|bt taraması kontrastlı mı çekildi?|evet
+synpic58912|bu bir bt taraması mı?|hayır
+synpic35240|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - t2 ağırlıklı
+synpic33143|bu görüntü ne ile çekildi?|mr - pdw proton yoğunluğu
+synpic28204|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|bt - gi ve iv kontrastlı
+synpic26201|bu görüntü ne ile çekildi?|röntgen
+synpic41271|bu ne tür bir tarama?|röntgen
+synpic8182|modalite nedir?|be - baryumlu lavman
+synpic57188|mrg kontrastlı mı çekildi?|evet
+synpic43843|bu görüntüyü elde etmek için ne tür bir görüntüleme modalitesi kullanıldı?|an - anjiyografi
+synpic36210|hastaya gi kontrastı verildi mi?|hayır
+synpic58495|bu t2 ağırlıklı bir görüntü mü?|hayır
+synpic40231|bu t1, t2 veya flair ağırlıklı bir görüntü mü?|t2
+synpic40782|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|bt - kontrastsız
+synpic53098|bu bir bt taraması mı?|hayır
+synpic31184|hastaya gi kontrastı verildi mi?|hayır
+synpic56123|hangi görüntüleme yöntemi kullanıldı?|röntgen
+synpic59548|bu bir bt taraması mı?|evet
+synpic21418|bu kontrastlı mı yoksa kontrastsız bir bt mi?|kontrastlı
+synpic17814|bu kontrastsız bir bt mi?|hayır
+synpic22893|bu kontrastlı mı yoksa kontrastsız bir bt mi?|kontrastlı
+synpic33236|bu ne tür bir görüntüleme modalitesidir?|an - anjiyografi
+synpic59945|bu ne tür bir görüntüleme modalitesidir?|bta - bt anjiyografisi
+synpic27492|bu görüntüdeki mr ağırlığı nedir?|t2
+synpic45565|bt taraması kontrastlı mı çekildi?|hayır
+synpic16883|bu t1 ağırlıklı bir görüntü mü?|hayır
+synpic43699|bu kontrastsız bir mrg mi?|evet
+synpic23151|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|röntgen
+synpic21020|bu kontrastsız bir bt mi?|evet
+synpic52596|hangi görüntüleme modalitesi kullanılıyor?|röntgen
+synpic56901|bu bir bt taraması mı?|hayır
+synpic38404|bu t1, t2 veya flair ağırlıklı bir görüntü mü?|t2
+synpic40597|bt taraması kontrastlı mı çekildi?|evet
+synpic26612|ne tür bir görüntüleme yöntemi kullanıldı?|an - anjiyografi
+synpic100332|bu ne tür bir görüntüleme modalitesidir?|röntgen
+synpic26809|bt taraması kontrastlı mı çekildi?|hayır
+synpic59005|görüntü nasıl çekildi?|mr - flair
+synpic43576|bu görüntüyü çekmek için hangi modalite kullanılıyor?|röntgen
+synpic33913|bu görüntü t1, t2 veya flair modalitesinde mi?|t2
+synpic23255|bu kontrastlı mı yoksa kontrastsız bir bt mi?|kontrastsız
+synpic21442|bu bir bt taraması mı?|evet
+synpic38885|hastaya gi kontrastı verildi mi?|hayır
+synpic17866|ne tür görüntüleme modalitesi gösteriliyor?|bt (kontrastlı) (iv)
+synpic24512|bu t1 ağırlıklı bir görüntü mü?|evet
+synpic24506|bu t1 ağırlıklı bir görüntü mü?|evet
+synpic39557|bu görüntüyü elde etmek için ne tür bir görüntüleme modalitesi kullanıldı?|röntgen
+synpic33293|bu görüntünün modalitesi nedir?|ugi - üst gi
+synpic13143|bu t2 ağırlıklı bir görüntü mü?|hayır
+synpic17319|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|bt - kontrastsız
+synpic33481|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|röntgen
+synpic24857|bu bir mrg görüntüsü mü?|hayır
+synpic37195|bu kontrastsız bir bt mi?|hayır
+synpic48796|bu bir mrg görüntüsü mü?|hayır
+synpic47664|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - gd'li t1a (yağ baskılanmış)
+synpic56027|bu kontrastsız bir bt mi?|evet
+synpic42084|bu kontrastlı mı yoksa kontrastsız bir mrg mi?|kontrastsız
+synpic37433|bu t1 ağırlıklı bir görüntü mü?|hayır
+synpic34853|bu hangi görüntüleme modalitesidir?|mr - flair
+synpic32749|bu bir bt taraması mı?|evet
+synpic60966|bu görüntüde ne tür bir görüntüleme modalitesi görülüyor?|röntgen
+synpic25382|modalite nedir?|pet-bt füzyon", # val 1 question
+synpic39967|bu t2 ağırlıklı bir görüntü mü?|hayır
+synpic27768|görüntü nasıl çekiliyor?|an - anjiyografi
+synpic30200|hangi modalite gösteriliyor?|röntgen
+synpic31678|bu bir mrg görüntüsü mü?|hayır
+synpic53994|bu kontrastlı mı yoksa kontrastsız bir bt mi?|kontrastsız
+synpic49072|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - t1a - kontrastsız
+synpic19651|mrg kontrastlı mı çekildi?|hayır
+synpic53980|bu t1, t2 veya flair ağırlıklı bir görüntü mü?|flair
+synpic33084|ne tür görüntüleme modalitesi gösteriliyor?|bt - gi ve iv kontrastlı
+synpic56608|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|bt - kontrastsız
+synpic48422|bu görüntüdeki mr ağırlığı nedir?|t1
+synpic46419|bu bir bt taraması mı?|hayır
+synpic17124|ne tür görüntüleme modalitesi gösteriliyor?|röntgen
+synpic47049|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|bt (kontrastlı) (iv)
+synpic40915|bu kontrastsız bir mrg mi?|hayır
+synpic51818|bu kontrastsız bir bt mi?|evet
+synpic32401|ne tür görüntüleme modalitesi gösteriliyor?|röntgen
+synpic34070|ne tür görüntüleme modalitesi gösteriliyor?|bt - gi ve iv kontrastlı
+synpic55854|hangi görüntüleme modalitesi kullanılıyor?|mra - mr anjiyografi/venografi
+synpic29237|bu görüntüyü çekmek için hangi modalite kullanıldı?|röntgen
+synpic39193|mrg kontrastlı mı çekildi?|hayır
+synpic33455|ne tür görüntüleme modalitesi gösteriliyor?|us - ultrason
+synpic41564|bu kontrastsız bir mrg mi?|evet
+synpic54169|bu kontrastsız bir mrg mi?|evet
+synpic57312|bt taraması kontrastlı mı çekildi?|hayır
+synpic54627|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - t2 ağırlıklı
+synpic58790|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|bt - kontrastsız
+synpic58974|bu t1, t2 veya flair ağırlıklı bir görüntü mü?|t2
+synpic35568|bu kontrastsız bir bt mi?|evet
+synpic53835|bu görüntünün modalitesi nedir?|mr - diğer nabiz sekanslari
+synpic47855|mrg kontrastlı mı çekildi?|hayır
+synpic58008|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|bt - kontrastsız
+synpic15120|bu t1 ağırlıklı bir görüntü mü?|hayır
+synpic33695|bu görüntü nasıl çekildi?|röntgen
+synpic100545|ne tür görüntüleme modalitesi gösteriliyor?|röntgen
+synpic58544|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - flair
+synpic32825|modalite nedir?|röntgen
+synpic41613|bu bir mrg görüntüsü mü?|hayır
+synpic39569|bu ne tür bir görüntülemedir?|röntgen
+synpic24538|ne tür bir görüntüleme yöntemi kullanıldı?|röntgen
+synpic17121|bu görüntüde ne tür bir görüntüleme modalitesi görülüyor?|röntgen
+synpic34061|bu görüntü nasıl çekildi?|us - ultrason
+synpic36110|bu görüntü hangi modaliteyle çekildi?|röntgen
+synpic56814|modalite nedir?|mr - pdw proton yoğunluğu
+synpic43955|bu t1 ağırlıklı bir görüntü mü?|hayır
+synpic54434|bu t1 ağırlıklı bir görüntü mü?|hayır
+synpic24879|bu hastaya ne tür kontrast uygulandı?|gi ve iv", # distinct class
+synpic39828|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - gadolinyumlu t1a
+synpic48021|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - gadolinyumlu t1a
+synpic49129|bu hastaya ne tür kontrast uygulandı?|iv
+synpic58742|bu kontrastlı mı yoksa kontrastsız bir bt mi?|kontrastsız
+synpic15871|hastaya gi kontrastı verildi mi?|hayır
+synpic58965|bu bir bt taraması mı?|hayır
+synpic39357|hangi modalite gösteriliyor?|röntgen
+synpic60223|bu görüntü t1, t2 veya flair modalitesinde mi?|t2
+synpic34841|bu bir bt taraması mı?|hayır
+synpic21041|bu hastaya ne tür kontrast uygulandı?|iv
+synpic55071|bu kontrastlı mı yoksa kontrastsız bir mrg mi?|kontrastlı
+synpic41825|bu t1, t2 veya flair ağırlıklı bir görüntü mü?|t1
+synpic55850|mrg kontrastlı mı çekildi?|hayır
+synpic34276|bu t1 ağırlıklı bir görüntü mü?|hayır
+synpic25384|bu görüntü t1, t2 veya flair modalitesinde mi?|t2
+synpic43767|ne tür görüntüleme modalitesi gösteriliyor?|bt (kontrastlı) (iv)
+synpic23252|hangi görüntüleme modalitesi kullanılıyor?|us - ultrason
+synpic53789|bu kontrastsız bir mrg mi?|hayır
+synpic52468|bu kontrastsız bir mrg mi?|hayır
+synpic42135|bu bir bt taraması mı?|evet
+synpic58184|bu t1, t2 veya flair ağırlıklı bir görüntü mü?|t2
+synpic48397|bu t1, t2 veya flair ağırlıklı bir görüntü mü?|t1
+synpic45466|bu ne tür bir görüntülemedir?|mr - stir
+synpic46966|bu görüntüyü çekmek için hangi modalite kullanılıyor?|röntgen
+synpic39618|ne tür bir görüntüleme yöntemi kullanıldı?|röntgen
+synpic18359|bu t1 ağırlıklı bir görüntü mü?|hayır
+synpic56036|bu t2 ağırlıklı bir görüntü mü?|hayır
+synpic49116|bu t1, t2 veya flair ağırlıklı bir görüntü mü?|t1
+synpic53199|bu bir bt taraması mı?|evet
+synpic38739|görüntü nasıl çekildi?|us - ultrason
+synpic17902|bu görüntüdeki mr ağırlığı nedir?|t2
+synpic22952|bu kontrastsız bir bt mi?|hayır
+synpic16361|bu t2 ağırlıklı bir görüntü mü?|hayır
+synpic19052|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|bt - kontrastsız
+synpic27433|ne tür bir görüntüleme yöntemi kullanıldı?|us - ultrason
+synpic54393|bu görüntü t1, t2 veya flair modalitesinde mi?|t2
+synpic42268|bu kontrastsız bir bt mi?|hayır
+synpic17527|hangi modalite gösteriliyor?|röntgen
+synpic43604|modalite nedir?|us - ultrason
+synpic50917|bu görüntü t1, t2 veya flair modalitesinde mi?|t2
+synpic39751|bu görüntü hangi modaliteyle çekildi?|röntgen
+synpic21687|modalite nedir?|röntgen
+synpic35180|hastaya gi kontrastı verildi mi?|hayır
+synpic18012|bu görüntü t1, t2 veya flair modalitesinde mi?|flair
+synpic16765|bu ne tür bir görüntü?|röntgen
+synpic19640|bu görüntüyü çekmek için hangi modalite kullanılıyor?|röntgen
+synpic54017|bu kontrastsız bir mrg mi?|hayır
+synpic33926|bu bir bt taraması mı?|evet
+synpic59241|bu t2 ağırlıklı bir görüntü mü?|hayır
+synpic44990|bu t1 ağırlıklı bir görüntü mü?|hayır
+synpic28094|ne tür görüntüleme modalitesi gösteriliyor?|röntgen
+synpic35947|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - t2 ağırlıklı
+synpic41793|bu görüntü t1, t2 veya flair modalitesinde mi?|t2
+synpic43423|bu t2 ağırlıklı bir görüntü mü?|hayır
+synpic16378|bu kontrastsız bir bt mi?|hayır
+synpic33107|bu bir mrg görüntüsü mü?|evet
+synpic47877|bu kontrastlı mı yoksa kontrastsız bir mrg mi?|kontrastlı
+synpic22547|bu bir bt taraması mı?|evet
+synpic33489|bu kontrastsız bir bt mi?|hayır
+synpic20393|bu görüntü nasıl çekildi?|röntgen
+synpic50674|bu görüntüdeki mr ağırlığı nedir?|t2
+synpic46002|bu bir bt taraması mı?|evet
+synpic41751|bu görüntü hangi modaliteyle çekildi?|an - anjiyografi
+synpic21890|hangi görüntüleme modalitesi kullanıldı?|mr - diğer nabiz sekanslari
+synpic9384|bu resmi elde etmek için hangi görüntüleme modalitesi kullanıldı?|röntgen
+synpic31315|hangi görüntüleme yöntemi kullanıldı?|mamografi
+synpic38331|burada hangi görüntüleme modalitesi görülüyor?|röntgen
+synpic25374|hangi görüntüleme modalitesi kullanıldı?|us - ultrason
+synpic54214|bu bir mrg görüntüsü mü?|hayır
+synpic56615|bu görüntüyü çekmek için hangi modalite kullanıldı?|bta - bt anjiyografisi
+synpic37599|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - gadolinyumlu t1a
+synpic55308|hastaya gi kontrastı verildi mi?|hayır
+synpic45133|bu bir bt taraması mı?|evet
+synpic54994|bu bir mrg görüntüsü mü?|hayır
+synpic41341|bu kontrastsız bir bt mi?|evet
+synpic54766|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - gd'li t1a (yağ baskılanmış)
+synpic22196|bu kontrastsız bir bt mi?|evet
+synpic29772|bu görüntü nasıl çekildi?|röntgen
+synpic18008|hangi görüntüleme modalitesi kullanılıyor?|röntgen
+synpic30800|ne tür görüntüleme modalitesi görülüyor?|mra - mr anjiyografi/venografi
+synpic41960|bu görüntüde ne tür bir görüntüleme modalitesi görülüyor?|ugi - üst gi
+synpic28295|bu kontrastlı mı yoksa kontrastsız bir bt mi?|kontrastsız
+synpic24487|bu hangi görüntüleme modalitesidir?|an - anjiyografi
+synpic20187|bu görüntü hangi modalitede çekildi?|an - anjiyografi
+synpic26246|bu bir bt taraması mı?|hayır
+synpic16352|hastaya gi kontrastı verildi mi?|hayır
+synpic59337|bu hastaya ne tür kontrast uygulandı?|iv
+synpic48212|görüntü nasıl çekildi?|röntgen
+synpic57871|görüntü nasıl çekildi?|an - anjiyografi
+synpic34454|bu ne tür bir görüntü?|bas - baryumlu yutma
+synpic17299|bu ne tür bir görüntü?|an - anjiyografi
+synpic28733|bt taraması kontrastlı mı çekildi?|evet
+synpic55727|bu t1 ağırlıklı bir görüntü mü?|evet
+synpic45246|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|bt - kontrastsız
+synpic57642|bu bir mrg görüntüsü mü?|hayır
+synpic60171|bt taraması kontrastlı mı çekildi?|hayır
+synpic29565|bu ne tür bir tarama?|röntgen
+synpic19303|bu ne tür bir görüntülemeyi temsil ediyor?|mamografi
+synpic51353|bu görüntüdeki mr ağırlığı nedir?|t1
+synpic26332|hastaya iv kontrast verildi mi?|evet
+synpic53785|bu görüntüdeki mr ağırlığı nedir?|t2
+synpic53024|bu kontrastlı mı yoksa kontrastsız bir bt mi?|kontrastsız
+synpic45861|hastaya gi kontrastı verildi mi?|hayır
+synpic31104|bt taraması kontrastlı mı çekildi?|hayır
+synpic49242|bu t2 ağırlıklı bir görüntü mü?|hayır
+synpic41636|bt taraması kontrastlı mı çekildi?|hayır
+synpic58401|bu görüntüde ne tür bir görüntüleme modalitesi görülüyor?|an - anjiyografi
+synpic51357|bu görüntü t1, t2 veya flair modalitesinde mi?|flair
+synpic44955|bu bir mrg görüntüsü mü?|evet
+synpic23070|bt taraması kontrastlı mı çekildi?|evet
+synpic47469|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|bt (kontrastlı) (iv)
+synpic19529|bt taraması kontrastlı mı çekildi?|evet
+synpic46993|bu bir bt taraması mı?|hayır
+synpic28051|bu kontrastsız bir bt mi?|evet
+synpic58993|bu t1 ağırlıklı bir görüntü mü?|hayır
+synpic43431|modalite nedir?|röntgen
+synpic20814|modalite nedir?|mamografi
+synpic46549|görüntü nasıl çekiliyor?|be - baryumlu lavman
+synpic54830|bu bir mrg görüntüsü mü?|hayır
+synpic40845|bu kontrastlı mı yoksa kontrastsız bir mrg mi?|kontrastlı
+synpic35203|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - t1a - kontrastsız
+synpic58951|burada hangi görüntüleme modalitesi görülüyor?|an - anjiyografi
+synpic51752|bu görüntü ne ile çekildi?|us - ultrason
+synpic19716|bu görüntüdeki mr ağırlığı nedir?|t1
+synpic56001|hangi görüntüleme modalitesi kullanılıyor?|an - anjiyografi
+synpic55508|bu bir mrg görüntüsü mü?|hayır
+synpic32746|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|röntgen
+synpic52918|bu t2 ağırlıklı bir görüntü mü?|hayır
+synpic21672|modalite nedir?|us - ultrason
+synpic51395|bu kontrastlı mı yoksa kontrastsız bir mrg mi?|kontrastsız
+synpic27571|bu bir bt taraması mı?|evet
+synpic50921|bu t1, t2 veya flair ağırlıklı bir görüntü mü?|t1
+synpic53596|ne tür görüntüleme modalitesi görülüyor?|mr - diğer nabiz sekanslari
+synpic32632|bu görüntü hangi modalitede çekildi?|röntgen
+synpic59939|bu bir bt taraması mı?|hayır
+synpic22390|bu bir mrg görüntüsü mü?|hayır
+synpic28454|bu kontrastsız bir bt mi?|hayır
+synpic40703|bu t1, t2 veya flair ağırlıklı bir görüntü mü?|t1
+synpic38876|bu t1 ağırlıklı bir görüntü mü?|hayır
+synpic15700|ne tür görüntüleme modalitesi görülüyor?|mra - mr anjiyografi/venografi
+synpic21328|bu t2 ağırlıklı bir görüntü mü?|hayır
+synpic44995|bu hangi görüntüleme modalitesidir?|mr - flair
+synpic48836|bu ne tür bir görüntülemeyi temsil ediyor?|us - ultrason
+synpic26651|bu hangi görüntüleme modalitesidir?|röntgen
+synpic57862|modalite nedir?|bta - bt anjiyografisi
+synpic43817|bu t1 ağırlıklı bir görüntü mü?|hayır
+synpic24495|bu görüntü nasıl çekildi?|röntgen
+synpic22755|bt taraması kontrastlı mı çekildi?|hayır
+synpic34123|bu kontrastlı mı yoksa kontrastsız bir bt mi?|kontrastlı
+synpic22741|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - t1a - kontrastsız
+synpic33102|bu ne tür bir görüntü?|röntgen
+synpic47683|bu kontrastlı mı yoksa kontrastsız bir bt mi?|kontrastlı
+synpic19933|bt taraması kontrastlı mı çekildi?|evet
+synpic53152|bu t2 ağırlıklı bir görüntü mü?|hayır
+synpic40660|bu görüntü t1, t2 veya flair modalitesinde mi?|t2
+synpic31933|bu bir bt taraması mı?|evet
+synpic24899|bu ne tür bir görüntülemeyi temsil ediyor?|röntgen
+synpic55682|bt taraması kontrastlı mı çekildi?|hayır
+synpic53581|bu hangi görüntüleme modalitesidir?|röntgen
+synpic11771|bu bir mrg görüntüsü mü?|hayır
+synpic31884|ne tür görüntüleme modalitesi gösteriliyor?|bt - gi ve iv kontrastlı
+synpic17664|bu görüntüyü çekmek için hangi modalite kullanılıyor?|röntgen
+synpic36696|hastaya iv kontrast verildi mi?|evet
+synpic53727|bu kontrastsız bir bt mi?|hayır
+synpic42170|ne tür bir görüntüleme yöntemi kullanıldı?|röntgen
+synpic34794|bu görüntü t1, t2 veya flair modalitesinde mi?|flair
+synpic49970|bu kontrastlı mı yoksa kontrastsız bir bt mi?|kontrastlı
+synpic47975|bu görüntüyü çekmek için hangi modalite kullanıldı?|be - baryumlu lavman
+synpic40559|bu görüntü t1, t2 veya flair modalitesinde mi?|t2
+synpic57757|bu kontrastsız bir mrg mi?|hayır
+synpic21602|burada hangi görüntüleme modalitesi görülüyor?|röntgen
+synpic47342|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - flair
+synpic16119|bu t2 ağırlıklı bir görüntü mü?|hayır
+synpic48065|görüntü nasıl çekildi?|mr - flair
+synpic51285|bu kontrastlı mı yoksa kontrastsız bir mrg mi?|kontrastlı
+synpic36236|modalite nedir?|röntgen
+synpic28587|ne tür görüntüleme modalitesi gösteriliyor?|us - ultrason
+synpic50366|bu kontrastlı mı yoksa kontrastsız bir mrg mi?|kontrastsız
+synpic28544|bu ne tür bir görüntülemedir?|ugi - üst gi
+synpic37470|bu görüntüyü çekmek için hangi modalite kullanıldı?|an - anjiyografi
+synpic38742|bu kontrastsız bir bt mi?|hayır
+synpic42788|bu kontrastlı mı yoksa kontrastsız bir mrg mi?|kontrastlı
+synpic43455|bu ne tür bir görüntülemeyi temsil ediyor?|röntgen
+synpic55545|görüntü nasıl çekildi?|mr - flair
+synpic38795|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - t2 ağırlıklı
+synpic60065|bu bir mrg görüntüsü mü?|evet
+synpic18848|bu görüntü hangi modaliteyle çekildi?|bas - baryumlu yutma
+synpic49352|ne tür görüntüleme modalitesi gösteriliyor?|bt (kontrastlı) (iv)
+synpic23766|bu bir mrg görüntüsü mü?|evet
+synpic50039|bu görüntü t1, t2 veya flair modalitesinde mi?|t2
+synpic40000|bu kontrastlı mı yoksa kontrastsız bir mrg mi?|kontrastlı
+synpic54713|bu ne tür bir görüntüleme modalitesidir?|us - ultrason
+synpic45150|bu t1 ağırlıklı bir görüntü mü?|evet
+synpic47023|bu t1, t2 veya flair ağırlıklı bir görüntü mü?|t1
+synpic53042|bu t2 ağırlıklı bir görüntü mü?|hayır
+synpic47751|bu ne tür bir görüntülemedir?|mra - mr anjiyografi/venografi
+synpic57218|bu ne tür bir görüntülemeyi temsil ediyor?|mr - diğer nabiz sekanslari
+synpic30532|görüntü nasıl çekiliyor?|röntgen
+synpic22136|bu görüntü hangi modalitede çekildi?|mamografi
+synpic24235|bu görüntü hangi modalitede çekildi?|us - ultrason
+synpic48112|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - t2 ağırlıklı
+synpic14645|bu kontrastlı mı yoksa kontrastsız bir mrg mi?|kontrastsız
+synpic58329|burada hangi görüntüleme modalitesi görülüyor?|mra - mr anjiyografi/venografi
+synpic50775|bu bir mrg görüntüsü mü?|evet
+synpic18902|bu görüntü hangi modaliteyle çekildi?|röntgen
+synpic35648|bu ne tür bir tarama?|an - anjiyografi
+synpic26620|bu ne tür bir görüntü?|an - anjiyografi
+synpic48066|bu t1, t2 veya flair ağırlıklı bir görüntü mü?|t1
+synpic39853|hastaya iv kontrast verildi mi?|evet
+synpic27338|bu kontrastsız bir mrg mi?|evet
+synpic37881|bu t1, t2 veya flair ağırlıklı bir görüntü mü?|t1
+synpic33629|bu t1, t2 veya flair ağırlıklı bir görüntü mü?|flair
+synpic53877|bu t1 ağırlıklı bir görüntü mü?|hayır
+synpic39463|bu bir mrg görüntüsü mü?|evet
+synpic43481|bu görüntüyü elde etmek için ne tür bir görüntüleme modalitesi kullanıldı?|us - ultrason
+synpic32126|ne tür görüntüleme modalitesi gösteriliyor?|bt (kontrastlı) (iv)
+synpic44926|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - t2 ağırlıklı
+synpic58300|bu görüntüdeki mr ağırlığı nedir?|t2
+synpic25880|ne tür görüntüleme modalitesi görülüyor?|bas - baryumlu yutma
+synpic16292|bu görüntüdeki mr ağırlığı nedir?|t1
+synpic51136|hastaya gi kontrastı verildi mi?|hayır
+synpic49209|bu ne tür bir tarama?|röntgen
+synpic55813|görüntü nasıl çekildi?|mr - flair
+synpic46847|mrg kontrastlı mı çekildi?|evet
+synpic45382|bu t1 ağırlıklı bir görüntü mü?|hayır
+synpic55026|bu t1 ağırlıklı bir görüntü mü?|hayır
+synpic21980|bu görüntüyü çekmek için hangi modalite kullanılıyor?|röntgen
+synpic48249|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - gadolinyumlu t1a
+synpic54648|görüntü nasıl çekildi?|an - anjiyografi
+synpic16484|bu görüntü ne ile çekildi?|mamografi
+synpic43447|bu hastaya ne tür kontrast uygulandı?|gi ve iv", # distinct class
+synpic54675|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|mr - gadolinyumlu t1a
+synpic29463|bu bir mrg görüntüsü mü?|evet
+synpic47351|bu kontrastlı mı yoksa kontrastsız bir bt mi?|kontrastlı
+synpic17228|bu t2 ağırlıklı bir görüntü mü?|hayır
+synpic51490|hastaya iv kontrast verildi mi?|evet
+synpic35880|bu kontrastsız bir mrg mi?|evet
+synpic34552|bu bir mrg görüntüsü mü?|evet
+synpic52166|bu bir bt taraması mı?|evet
+synpic21188|bu görüntüyü çekmek için hangi modalite kullanıldı?|röntgen
+synpic57585|görüntü nasıl çekiliyor?|röntgen
+synpic40947|bu görüntüdeki mr ağırlığı nedir?|t1
+synpic29098|ne tür görüntüleme modalitesi görülüyor?|mamografi
+synpic44506|bu t2 ağırlıklı bir görüntü mü?|hayır
+synpic52364|bu kontrastlı mı yoksa kontrastsız bir bt mi?|kontrastlı
+synpic57208|bt taraması kontrastlı mı çekildi?|hayır
+synpic57578|bu görüntü hangi modaliteyle çekildi?|bta - bt anjiyografisi
+synpic58887|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|bt (kontrastlı) (iv)
+synpic50565|hastaya gi kontrastı verildi mi?|hayır
+synpic56114|bu hangi görüntüleme modalitesidir?|mr - flair
+synpic23560|bu bir bt taraması mı?|evet
+synpic34008|hastaya gi kontrastı verildi mi?|hayır
+synpic16083|bu kontrastlı mı yoksa kontrastsız bir bt mi?|kontrastsız
+synpic52004|bu görüntüde ne tür bir görüntüleme modalitesi görülüyor?|us - ultrason
+synpic15401|bu hangi görüntüleme modalitesidir?|röntgen
+synpic57801|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|bt - kontrastsız
+synpic25267|bu görüntü ne ile çekildi?|ugi - üst gi
+synpic34632|bu görüntüyü çekmek için hangi görüntüleme modalitesi kullanıldı?|bt - kontrastsız
+synpic45021|bu görüntüyü elde etmek için ne tür bir görüntüleme modalitesi kullanıldı?|bta - bt anjiyografisi
+synpic50410|bu görüntüdeki mr ağırlığı nedir?|t1
+synpic47178|bu görüntünün modalitesi nedir?|röntgen
+synpic40398|bu t1, t2 veya flair ağırlıklı bir görüntü mü?|t2
+synpic18681|bu kontrastsız bir mrg mi?|evet
+synpic38551|bt taraması kontrastlı mı çekildi?|hayır
+synpic36540|bu t2 ağırlıklı bir görüntü mü?|hayır
+synpic17203|ne tür görüntüleme modalitesi gösteriliyor?|bt (kontrastlı) (iv)
+synpic57633|bu t2 ağırlıklı bir görüntü mü?|hayır
+synpic56511|bu t1, t2 veya flair ağırlıklı bir görüntü mü?|t1
+synpic29500|bu görüntüyü çekmek için hangi modalite kullanıldı?|röntgen
+synpic48897|bu görüntü t1, t2 veya flair modalitesinde mi?|t2
+synpic45196|bu bir mrg görüntüsü mü?|evet
+synpic45828|bu kontrastsız bir mrg mi?|evet
+synpic60458|bu ne tür bir görüntülemedir?|röntgen
+synpic43524|bu t1 ağırlıklı bir görüntü mü?|evet
+synpic59568|bu t1, t2 veya flair ağırlıklı bir görüntü mü?|flair
+synpic48459|bu kontrastlı mı yoksa kontrastsız bir mrg mi?|kontrastlı
+synpic54733|bu görüntü hangi düzlemde konumlandırılmış?|aksiyal
+synpic25647|bu röntgen hangi düzlemde?|ap
+synpic35681|hangi düzlem gösterilmiştir?|koronal
+synpic39641|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic35693|bu mrg hangi düzlemde çekildi?|sagital
+synpic17419|bt taraması hangi düzlemde gösteriliyor?|aksiyal
+synpic32909|bt taramasının düzlemi nedir?|aksiyal
+synpic48040|bu bt taramasında hangi düzlem kullanıldı?|aksiyal
+synpic48351|burada hangi görüntü düzlemi gösterilmiştir?|frontal
+synpic49503|bu hangi düzlem?|koronal
+synpic18176|bu bt taraması hangi düzlemde?|aksiyal
+synpic36498|bu gastrointestinal görüntüde hangi organ sistemi gösteriliyor?|pa
+synpic26850|bu hangi görüntü düzlemidir?|sagital
+synpic19508|hangi düzlem kullanıldı?|aksiyal
+synpic23496|görüntünün düzlemi nedir?|koronal
+synpic25435|hangi düzlem gösterilmiştir?|aksiyal
+synpic38894|bu görüntü hangi düzlemde konumlandırılmış?|aksiyal
+synpic25620|görüntü hangi düzlemde elde edilmiştir?|frontal
+synpic25634|bu röntgen hangi düzlemde elde edildi?|lateral
+synpic36490|burada hangi görüntü düzlemi gösterilmiştir?|lateral
+synpic40658|bu görüntü hangi düzlemde çekildi?|sagital
+synpic27614|bu röntgen hangi düzlemde?|lateral
+synpic26245|görüntünün düzlemi nedir?|aksiyal
+synpic25628|bu hangi görüntü düzlemidir?|ap
+synpic34446|bu hangi görüntü düzlemidir?|koronal
+synpic28899|bu görüntü hangi düzlemde çekildi?|lateral
+synpic28331|bu hangi düzlem?|sagital
+synpic55791|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic32867|bt taramasının düzlemi nedir?|aksiyal
+synpic21201|hangi düzlem gösterilmiştir?|pa
+synpic20686|hangi düzlem görülüyor?|mammo - mlo
+synpic17412|bu hangi düzlem?|aksiyal
+synpic53907|bt taramasının düzlemi nedir?|koronal
+synpic24024|görüntü hangi düzlemde elde edilmiştir?|sagital
+synpic59540|mrg hangi düzlemde gösteriliyor?|aksiyal
+synpic19169|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic52424|hangi düzlem gösterilmiştir?|aksiyal
+synpic52430|bu görüntü hangi düzlemde?|koronal
+synpic51878|burada hangi görüntü düzlemi gösterilmiştir?|koronal
+synpic25109|bu gastrointestinal görüntüde hangi organ sistemi gösteriliyor?|koronal
+synpic21186|hangi düzlem görülüyor?|lateral
+synpic52140|bu görüntü hangi düzlemde?|aksiyal
+synpic32893|bu röntgenin düzlemi nedir?|ap
+synpic25451|bu röntgen hangi düzlemde?|lateral
+synpic18101|bu gastrointestinal görüntüde hangi organ sistemi gösteriliyor?|frontal
+synpic18115|hangi düzlem görülüyor?|sagital
+synpic17583|röntgenin düzlemi nedir?|frontal
+synpic100295|ultrasonda hangi düzlem gösteriliyor?|sagital
+synpic46243|görüntünün düzlemi nedir?|aksiyal
+synpic38951|hangi düzlem görülüyor?|pa
+synpic60290|bt taramasının düzlemi nedir?|koronal
+synpic17970|görüntünün düzlemi nedir?|ap
+synpic17780|bu gastrointestinal görüntü hangi düzlemde çekildi?|frontal
+synpic28216|hangi düzlem kullanıldı?|pa
+synpic31753|bt taramasının düzlemi nedir?|aksiyal
+synpic16475|bu görüntü hangi düzlemde konumlandırılmış?|aksiyal
+synpic38575|bu görüntü hangi düzlemde çekildi?|sagital
+synpic41707|görüntü hangi düzlemde elde edilmiştir?|sagital
+synpic26950|bu gastrointestinal görüntüde hangi organ sistemi gösteriliyor?|oblik
+synpic18921|bu ultrason hangi düzlemde?|transvers
+synpic29054|bu görüntü hangi düzlemde konumlandırılmış?|ap
+synpic56870|burada hangi görüntü düzlemi gösterilmiştir?|aksiyal
+synpic21385|bu mrg hangi düzlemde?|aksiyal
+synpic57577|hangi düzlem gösterilmiştir?|oblik
+synpic40779|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic49985|bu bt taraması hangi düzlemde?|sagital
+synpic50556|hangi düzlem kullanıldı?|aksiyal
+synpic57239|bu gastrointestinal görüntüde hangi organ sistemi gösteriliyor?|sagital
+synpic54730|bu bt taraması hangi düzlemde?|koronal
+synpic52631|bu mrg’nin düzlemi nedir?|aksiyal
+synpic28837|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic39709|mrg’nin düzlemi nedir?|koronal
+synpic61204|bu görüntü hangi düzlemde konumlandırılmış?|oblik
+synpic27523|görüntünün düzlemi nedir?|aksiyal
+synpic61238|bu bt taraması hangi düzlemde?|aksiyal
+synpic58532|bu mrg’de hangi düzlem kullanıldı?|koronal
+synpic45577|bu hangi düzlem?|aksiyal
+synpic39696|görüntünün düzlemi nedir?|sagital
+synpic23157|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic23631|görüntü hangi düzlemde elde edilmiştir?|aksiyal
+synpic27319|bu görüntü hangi düzlemde çekildi?|ap
+synpic51072|bu hangi görüntü düzlemidir?|sagital
+synpic53659|bu görüntü hangi düzlemde çekildi?|sagital
+synpic58095|hangi düzlem kullanıldı?|aksiyal
+synpic60250|bu mrg hangi düzlemde?|aksiyal
+synpic40194|bu görüntü hangi düzlemde çekildi?|koronal
+synpic29645|bu görüntü hangi düzlemde konumlandırılmış?|aksiyal
+synpic31036|düzlemi nedir?|aksiyal
+synpic33806|bu gastrointestinal görüntüde hangi organ sistemi gösteriliyor?|aksiyal
+synpic27873|bu görüntü hangi düzlemde çekildi?|mammo - mlo
+synpic38953|düzlemi nedir?|lateral
+synpic49172|bu hangi düzlem?|sagital
+synpic59407|bu mrg hangi düzlemde?|koronal
+synpic43477|hangi düzlem görülüyor?|ap
+synpic53314|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic46876|düzlemi nedir?|lateral
+synpic28188|hangi düzlem görülüyor?|ap
+synpic47573|bu görüntü hangi düzlemde çekildi?|sagital
+synpic30260|bu anjiyogram hangi düzlemde?|lateral
+synpic45827|bu mrg’de hangi düzlem kullanıldı?|aksiyal
+synpic27046|bu görüntü hangi düzlemde?|sagital
+synpic20729|bt taraması hangi düzlemde gösteriliyor?|aksiyal
+synpic30248|bu bt taraması hangi düzlemde?|aksiyal
+synpic53738|bu görüntü hangi düzlemde çekildi?|sagital
+synpic17620|burada hangi görüntü düzlemi gösterilmiştir?|aksiyal
+synpic47017|düzlemi nedir?|aksiyal
+synpic41314|bu mrg hangi düzlemde?|aksiyal
+synpic55403|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic27730|bu film hangi düzlemde?|transvers
+synpic58682|bu görüntüde hangi organ sistemi gösteriliyor?|sagital
+synpic50023|bu görüntü hangi düzlemde çekildi?|pa
+synpic57758|görüntünün düzlemi nedir?|koronal
+synpic19225|bu görüntüde hangi organ sistemi gösteriliyor?|koronal
+synpic16880|burada hangi görüntü düzlemi gösterilmiştir?|ap
+synpic48730|bu görüntü hangi düzlemde çekildi?|koronal
+synpic21786|bu görüntü hangi düzlemde konumlandırılmış?|aksiyal
+synpic25090|bu görüntü hangi düzlemde konumlandırılmış?|aksiyal
+synpic58912|bu mrg’nin düzlemi nedir?|aksiyal
+synpic35240|hangi düzlem kullanıldı?|aksiyal
+synpic33143|hangi düzlem görülüyor?|sagital
+synpic28204|bu bt taraması hangi düzlemde?|aksiyal
+synpic26201|görüntü hangi düzlemde elde edilmiştir?|lateral
+synpic41271|bu görüntü hangi düzlemde çekildi?|lateral
+synpic8182|bu hangi görüntü düzlemidir?|frontal
+synpic57188|hangi düzlem görülüyor?|koronal
+synpic43843|bu anjiyogramda hangi düzlem kullanıldı?|lateral
+synpic36210|görüntünün düzlemi nedir?|koronal
+synpic58495|mrg hangi düzlemde gösteriliyor?|aksiyal
+synpic40231|bu mrg hangi düzlemde?|koronal
+synpic40782|bu bt taraması hangi düzlemde elde edildi?|sagital
+synpic53098|bu mrg hangi düzlemde elde edildi?|aksiyal
+synpic31184|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic56123|bu görüntü hangi düzlemde çekildi?|ap
+synpic59548|görüntünün düzlemi nedir?|aksiyal
+synpic21418|bu hangi düzlem?|aksiyal
+synpic17814|görüntü hangi düzlemde elde edilmiştir?|aksiyal
+synpic22893|bu bt taraması hangi düzlemde elde edildi?|aksiyal
+synpic33236|bu görüntü hangi düzlemde?|ap
+synpic59945|düzlemi nedir?|koronal
+synpic27492|düzlemi nedir?|koronal
+synpic45565|bu bt taraması hangi düzlemde çekildi?|aksiyal
+synpic16883|burada hangi görüntü düzlemi gösterilmiştir?|ap
+synpic43699|bu mrg hangi düzlemde?|sagital
+synpic23151|bu görüntüde hangi organ sistemi gösteriliyor?|frontal
+synpic21020|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic52596|röntgenin düzlemi nedir?|ap
+synpic56901|mrg’nin düzlemi nedir?|sagital
+synpic38404|burada hangi görüntü düzlemi gösterilmiştir?|aksiyal
+synpic40597|hangi düzlem kullanıldı?|aksiyal
+synpic26612|görüntü hangi düzlemde elde edilmiştir?|ap
+synpic100332|bu röntgenin düzlemi nedir?|ap
+synpic26809|bu bt taraması hangi düzlemde çekildi?|aksiyal
+synpic59005|bu görüntü hangi düzlemde konumlandırılmış?|aksiyal
+synpic43576|düzlemi nedir?|pa
+synpic33913|hangi düzlem kullanıldı?|sagital
+synpic23255|bt taraması hangi düzlemde gösteriliyor?|aksiyal
+synpic21442|bu bt taraması hangi düzlemde çekildi?|aksiyal
+synpic38885|görüntü hangi düzlemde elde edilmiştir?|aksiyal
+synpic17866|burada hangi görüntü düzlemi gösterilmiştir?|aksiyal
+synpic24512|bu gastrointestinal görüntüde hangi organ sistemi gösteriliyor?|koronal
+synpic24506|bu gastrointestinal görüntüde hangi organ sistemi gösteriliyor?|aksiyal
+synpic39557|bu röntgen hangi düzlemde?|pa
+synpic33293|bu görüntü hangi düzlemde çekildi?|koronal
+synpic13143|düzlemi nedir?|aksiyal
+synpic17319|görüntünün düzlemi nedir?|aksiyal
+synpic33481|bu röntgenin düzlemi nedir?|pa
+synpic24857|bu gastrointestinal görüntüde hangi organ sistemi gösteriliyor?|aksiyal
+synpic37195|bu bt taraması hangi düzlemde?|aksiyal
+synpic48796|hangi düzlem gösterilmiştir?|aksiyal
+synpic47664|düzlemi nedir?|aksiyal
+synpic56027|bu görüntü hangi düzlemde konumlandırılmış?|3b rekonstrüksiyon
+synpic42084|bu hangi görüntü düzlemidir?|aksiyal
+synpic37433|bu hangi düzlem?|aksiyal
+synpic34853|bu mrg hangi düzlemde?|aksiyal
+synpic32749|bt taramasının düzlemi nedir?|sagital
+synpic60966|bu görüntü hangi düzlemde konumlandırılmış?|lateral
+synpic25382|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic39967|bu mrg hangi düzlemde çekildi?|aksiyal
+synpic27768|bu görüntü hangi düzlemde çekildi?|ap
+synpic30200|röntgenin düzlemi nedir?|lateral
+synpic31678|bu bt taramasında hangi düzlem kullanıldı?|aksiyal
+synpic53994|bu bt taramasında hangi düzlem kullanıldı?|aksiyal
+synpic49072|bu film hangi düzlemde?|aksiyal
+synpic19651|bu mrg hangi düzlemde çekildi?|aksiyal
+synpic53980|görüntü hangi düzlemde elde edilmiştir?|aksiyal
+synpic33084|bu görüntü hangi düzlemde çekildi?|koronal
+synpic56608|bt taraması hangi düzlemde gösteriliyor?|sagital
+synpic48422|mrg hangi düzlemde gösteriliyor?|sagital
+synpic46419|bu mrg’de hangi düzlem kullanıldı?|koronal
+synpic17124|görüntünün düzlemi nedir?|ap
+synpic47049|bt taraması hangi düzlemde gösteriliyor?|aksiyal
+synpic40915|bu görüntü hangi düzlemde çekildi?|sagital
+synpic51818|bt taramasının düzlemi nedir?|aksiyal
+synpic32401|bu röntgen hangi düzlemde çekildi?|lateral
+synpic34070|bu bt taramasında hangi düzlem kullanıldı?|aksiyal
+synpic55854|hangi düzlem gösterilmiştir?|aksiyal
+synpic29237|bu görüntü hangi düzlemde çekildi?|frontal
+synpic39193|bu mrg’de hangi düzlem kullanıldı?|koronal
+synpic33455|bu ultrason hangi düzlemde?|transvers
+synpic41564|bu mrg’nin düzlemi nedir?|aksiyal
+synpic54169|bu görüntü hangi düzlemde konumlandırılmış?|koronal
+synpic57312|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic54627|bu mrg’de hangi düzlem kullanıldı?|koronal
+synpic58790|bu görüntü hangi düzlemde?|aksiyal
+synpic58974|görüntü hangi düzlemde elde edilmiştir?|aksiyal
+synpic35568|bu bt taraması hangi düzlemde?|aksiyal
+synpic53835|bu mrg hangi düzlemde çekildi?|sagital
+synpic47855|görüntünün düzlemi nedir?|aksiyal
+synpic58008|bt taramasının düzlemi nedir?|aksiyal
+synpic15120|hangi düzlem gösterilmiştir?|aksiyal
+synpic33695|bu görüntü hangi düzlemde çekildi?|frontal
+synpic100545|bu hangi görüntü düzlemidir?|oblik
+synpic58544|hangi düzlem görülüyor?|sagital
+synpic32825|hangi düzlem gösterilmiştir?|lateral
+synpic41613|bu hangi düzlem?|aksiyal
+synpic39569|bu görüntü hangi düzlemde çekildi?|oblik
+synpic24538|bu röntgen hangi düzlemde elde edildi?|pa
+synpic17121|düzlemi nedir?|mammo - büyütmeli cc
+synpic34061|bu gastrointestinal görüntüde hangi organ sistemi gösteriliyor?|sagital
+synpic36110|bu röntgende hangi düzlem kullanıldı?|oblik
+synpic56814|mrg hangi düzlemde gösteriliyor?|sagital
+synpic43955|bu hangi düzlem?|aksiyal
+synpic54434|bu görüntüde hangi organ sistemi gösteriliyor?|aksiyal
+synpic24879|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic39828|bu görüntü hangi düzlemde?|aksiyal
+synpic48021|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic49129|hangi düzlem görülüyor?|aksiyal
+synpic58742|burada hangi görüntü düzlemi gösterilmiştir?|aksiyal
+synpic15871|düzlemi nedir?|aksiyal
+synpic58965|hangi düzlem kullanıldı?|aksiyal
+synpic39357|görüntü hangi düzlemde elde edilmiştir?|pa
+synpic60223|bu mrg hangi düzlemde?|aksiyal
+synpic34841|hangi düzlem görülüyor?|aksiyal
+synpic21041|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic55071|görüntünün düzlemi nedir?|koronal
+synpic41825|mrg hangi düzlemde gösteriliyor?|sagital
+synpic55850|bu görüntü hangi düzlemde çekildi?|sagital
+synpic34276|bu mrg’nin düzlemi nedir?|sagital
+synpic25384|hangi düzlem gösterilmiştir?|aksiyal
+synpic43767|bu bt taraması hangi düzlemde?|aksiyal
+synpic23252|bu ultrason hangi düzlemde çekildi?|sagital
+synpic53789|bu görüntü hangi düzlemde çekildi?|koronal
+synpic52468|bu hangi düzlem?|koronal
+synpic42135|bu bt taraması hangi düzlemde?|koronal
+synpic58184|hangi düzlem gösterilmiştir?|koronal
+synpic48397|bu mrg hangi düzlemde?|koronal
+synpic45466|düzlemi nedir?|aksiyal
+synpic46966|hangi düzlem görülüyor?|ap
+synpic39618|burada hangi görüntü düzlemi gösterilmiştir?|ap
+synpic18359|bu gastrointestinal görüntüde hangi organ sistemi gösteriliyor?|sagital
+synpic56036|mrg hangi düzlemde gösteriliyor?|koronal
+synpic49116|bu görüntü hangi düzlemde konumlandırılmış?|sagital
+synpic53199|bu bt taramasında hangi düzlem kullanıldı?|aksiyal
+synpic38739|hangi düzlem gösterilmiştir?|transvers
+synpic17902|bu gastrointestinal görüntüde hangi organ sistemi gösteriliyor?|aksiyal
+synpic22952|bu bt taraması hangi düzlemde?|aksiyal
+synpic16361|bu görüntü hangi düzlemde çekildi?|koronal
+synpic19052|bu görüntü hangi düzlemde?|aksiyal
+synpic27433|bu gastrointestinal görüntüde hangi organ sistemi gösteriliyor?|longitudinal
+synpic54393|bu mrg’nin düzlemi nedir?|aksiyal
+synpic42268|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic17527|burada hangi görüntü düzlemi gösterilmiştir?|frontal
+synpic43604|bu görüntü hangi düzlemde çekildi?|transvers
+synpic50917|hangi düzlem gösterilmiştir?|aksiyal
+synpic39751|bu gastrointestinal görüntüde hangi organ sistemi gösteriliyor?|ap
+synpic21687|bu görüntüde hangi organ sistemi gösteriliyor?|frontal
+synpic35180|burada hangi görüntü düzlemi gösterilmiştir?|aksiyal
+synpic18012|bu görüntü hangi düzlemde çekildi?|koronal
+synpic16765|bu görüntü hangi düzlemde çekildi?|frontal
+synpic19640|bu görüntü hangi düzlemde çekildi?|frontal
+synpic54017|görüntünün düzlemi nedir?|aksiyal
+synpic33926|görüntünün düzlemi nedir?|aksiyal
+synpic59241|bu gastrointestinal görüntüde hangi organ sistemi gösteriliyor?|koronal
+synpic44990|mrg hangi düzlemde gösteriliyor?|aksiyal
+synpic28094|görüntünün düzlemi nedir?|ap
+synpic35947|bu mrg’nin düzlemi nedir?|sagital
+synpic41793|bu hangi düzlem?|sagital
+synpic43423|bu hangi düzlem?|sagital
+synpic16378|bu bt taraması hangi düzlemde?|aksiyal
+synpic33107|görüntünün düzlemi nedir?|aksiyal
+synpic47877|bu mrg hangi düzlemde?|aksiyal
+synpic22547|bt taramasının düzlemi nedir?|aksiyal
+synpic33489|bu bt taraması hangi düzlemde elde edildi?|aksiyal
+synpic20393|bu görüntüde hangi organ sistemi gösteriliyor?|oblik
+synpic50674|bu mrg hangi düzlemde elde edildi?|sagital
+synpic46002|bu gastrointestinal görüntüde hangi organ sistemi gösteriliyor?|aksiyal
+synpic41751|bu görüntü hangi düzlemde?|oblik
+synpic21890|bu mrg hangi düzlemde?|frontal
+synpic9384|burada hangi görüntü düzlemi gösterilmiştir?|lateral
+synpic31315|görüntü hangi düzlemde elde edilmiştir?|mammo - mlo
+synpic38331|burada hangi görüntü düzlemi gösterilmiştir?|lateral
+synpic25374|bu ultrason hangi düzlemde elde edildi?|transvers
+synpic54214|bu görüntü hangi düzlemde çekildi?|sagital
+synpic56615|görüntü hangi düzlemde elde edilmiştir?|aksiyal
+synpic37599|bu görüntüde hangi organ sistemi gösteriliyor?|aksiyal
+synpic55308|bu bt taraması hangi düzlemde?|aksiyal
+synpic45133|bt taraması hangi düzlemde gösteriliyor?|aksiyal
+synpic54994|hangi düzlem kullanıldı?|aksiyal
+synpic41341|bu görüntü hangi düzlemde konumlandırılmış?|koronal
+synpic54766|görüntünün düzlemi nedir?|sagital
+synpic22196|bu bt taraması hangi düzlemde çekildi?|aksiyal
+synpic29772|hangi düzlem görülüyor?|ap
+synpic18008|bu röntgenin düzlemi nedir?|ap
+synpic30800|bu görüntü hangi düzlemde çekildi?|sagital
+synpic41960|bu görüntü hangi düzlemde çekildi?|ap
+synpic28295|görüntü hangi düzlemde elde edilmiştir?|koronal
+synpic24487|anjiyogramın düzlemi nedir?|lateral
+synpic20187|bu anjiyogram hangi düzlemde?|pa
+synpic26246|bu mrg hangi düzlemde?|sagital
+synpic16352|bu bt taraması hangi düzlemde çekildi?|aksiyal
+synpic59337|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic48212|hangi düzlem gösterilmiştir?|frontal
+synpic57871|düzlemi nedir?|ap
+synpic34454|bu film hangi düzlemde?|pa
+synpic17299|bu görüntü hangi düzlemde konumlandırılmış?|pa
+synpic28733|bu görüntü hangi düzlemde?|aksiyal
+synpic55727|bu mrg hangi düzlemde?|sagital
+synpic45246|bt taraması hangi düzlemde gösteriliyor?|aksiyal
+synpic57642|bu film hangi düzlemde?|aksiyal
+synpic60171|bu görüntü hangi düzlemde çekildi?|koronal
+synpic29565|hangi düzlem kullanıldı?|pa
+synpic19303|bu mamografi hangi düzlemde çekildi?|mammo - xcc
+synpic51353|mrg’nin düzlemi nedir?|koronal
+synpic26332|bu hangi görüntü düzlemidir?|aksiyal
+synpic53785|mrg’nin düzlemi nedir?|aksiyal
+synpic53024|düzlemi nedir?|aksiyal
+synpic45861|bu bt taraması hangi düzlemde çekildi?|aksiyal
+synpic31104|burada hangi görüntü düzlemi gösterilmiştir?|aksiyal
+synpic49242|bu mrg’de hangi düzlem kullanıldı?|sagital
+synpic41636|bu film hangi düzlemde?|koronal
+synpic58401|bu görüntü hangi düzlemde çekildi?|ap
+synpic51357|hangi düzlem görülüyor?|aksiyal
+synpic44955|bu mrg hangi düzlemde elde edildi?|sagital
+synpic23070|hangi düzlem görülüyor?|aksiyal
+synpic47469|bu bt taraması hangi düzlemde çekildi?|aksiyal
+synpic19529|bu hangi düzlem?|aksiyal
+synpic46993|düzlemi nedir?|sagital
+synpic28051|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic58993|bu hangi düzlem?|koronal
+synpic43431|düzlemi nedir?|ap
+synpic20814|düzlemi nedir?|mammo - mlo
+synpic46549|bu görüntü hangi düzlemde çekildi?|ap
+synpic54830|bu görüntü hangi düzlemde çekildi?|lateral
+synpic40845|görüntünün düzlemi nedir?|koronal
+synpic35203|bu mrg hangi düzlemde?|sagital
+synpic58951|bu anjiyogram hangi düzlemde?|lateral
+synpic51752|bu görüntü hangi düzlemde konumlandırılmış?|koronal
+synpic19716|bu görüntü hangi düzlemde konumlandırılmış?|sagital
+synpic56001|düzlemi nedir?|oblik
+synpic55508|bt taramasının düzlemi nedir?|sagital
+synpic32746|bu görüntü hangi düzlemde çekildi?|frontal
+synpic52918|hangi düzlem kullanıldı?|sagital
+synpic21672|bu ultrasonda hangi düzlem kullanıldı?|sagital
+synpic51395|mrg’nin düzlemi nedir?|sagital
+synpic27571|bt taramasının düzlemi nedir?|koronal
+synpic50921|görüntü hangi düzlemde elde edilmiştir?|aksiyal
+synpic53596|bu mrg hangi düzlemde?|oblik
+synpic32632|bu hangi düzlem?|lateral
+synpic59939|hangi düzlem görülüyor?|aksiyal
+synpic22390|hangi düzlem görülüyor?|aksiyal
+synpic28454|bu hangi düzlem?|aksiyal
+synpic40703|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic38876|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic15700|hangi düzlem gösterilmiştir?|koronal
+synpic21328|bu film hangi düzlemde?|aksiyal
+synpic44995|bu görüntüde hangi organ sistemi gösteriliyor?|aksiyal
+synpic48836|hangi düzlem gösterilmiştir?|aksiyal
+synpic26651|bu görüntü hangi düzlemde çekildi?|pa
+synpic57862|görüntünün düzlemi nedir?|3b rekonstrüksiyon
+synpic43817|bu görüntüde hangi organ sistemi gösteriliyor?|sagital
+synpic24495|bu röntgen hangi düzlemde çekildi?|ap
+synpic22755|düzlemi nedir?|aksiyal
+synpic34123|bu bt taraması hangi düzlemde?|aksiyal
+synpic22741|bu görüntü hangi düzlemde konumlandırılmış?|sagital
+synpic33102|bu görüntü hangi düzlemde çekildi?|pa
+synpic47683|bt taramasının düzlemi nedir?|aksiyal
+synpic19933|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic53152|bu görüntü hangi düzlemde?|koronal
+synpic40660|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic31933|bu bt taraması hangi düzlemde?|aksiyal
+synpic24899|bu görüntü hangi düzlemde çekildi?|frontal
+synpic55682|bu bt taraması hangi düzlemde elde edildi?|aksiyal
+synpic53581|bu röntgende hangi düzlem kullanıldı?|ap
+synpic11771|bu bt taraması hangi düzlemde çekildi?|aksiyal
+synpic31884|bt taramasının düzlemi nedir?|aksiyal
+synpic17664|bu röntgen hangi düzlemde çekildi?|pa
+synpic36696|bu bt taraması hangi düzlemde çekildi?|koronal
+synpic53727|bu bt taraması hangi düzlemde çekildi?|3b rekonstrüksiyon
+synpic42170|bu röntgen hangi düzlemde çekildi?|pa
+synpic34794|burada hangi görüntü düzlemi gösterilmiştir?|aksiyal
+synpic49970|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic47975|gastrointestinal görüntünün düzlemi nedir?|frontal
+synpic40559|düzlemi nedir?|sagital
+synpic57757|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic21602|bu film hangi düzlemde?|lateral
+synpic47342|görüntünün düzlemi nedir?|aksiyal
+synpic16119|hangi düzlem görülüyor?|aksiyal
+synpic48065|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic51285|bu film hangi düzlemde?|aksiyal
+synpic36236|bu röntgenin düzlemi nedir?|frontal
+synpic28587|hangi düzlem kullanıldı?|transvers
+synpic50366|hangi düzlem görülüyor?|sagital
+synpic28544|düzlemi nedir?|frontal
+synpic37470|bu görüntü hangi düzlemde?|koronal
+synpic38742|bu hangi görüntü düzlemidir?|aksiyal
+synpic42788|bu mrg hangi düzlemde çekildi?|koronal
+synpic43455|hangi düzlem gösterilmiştir?|lateral
+synpic55545|bu hangi görüntü düzlemidir?|aksiyal
+synpic38795|bu gastrointestinal görüntüde hangi organ sistemi gösteriliyor?|aksiyal
+synpic60065|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic18848|gastrointestinal görüntünün düzlemi nedir?|ap
+synpic49352|düzlemi nedir?|aksiyal
+synpic23766|görüntünün düzlemi nedir?|aksiyal
+synpic50039|bu mrg hangi düzlemde?|sagital
+synpic40000|bu mrg’nin düzlemi nedir?|sagital
+synpic54713|ultrasonun düzlemi nedir?|aksiyal
+synpic45150|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic47023|hangi düzlem gösterilmiştir?|sagital
+synpic53042|bu film hangi düzlemde?|sagital
+synpic47751|bu görüntü hangi düzlemde konumlandırılmış?|sagital
+synpic57218|bu mrg hangi düzlemde?|aksiyal
+synpic30532|bu hangi düzlem?|ap
+synpic22136|bu görüntü hangi düzlemde çekildi?|mammo - mlo
+synpic24235|bu görüntü hangi düzlemde?|koronal
+synpic48112|görüntü hangi düzlemde elde edilmiştir?|koronal
+synpic14645|hangi düzlem gösterilmiştir?|aksiyal
+synpic58329|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic50775|bu mrg’de hangi düzlem kullanıldı?|sagital
+synpic18902|bu röntgen hangi düzlemde?|lateral
+synpic35648|bu anjiyogramda hangi düzlem kullanıldı?|frontal
+synpic26620|bu görüntü hangi düzlemde çekildi?|frontal
+synpic48066|bu görüntü hangi düzlemde çekildi?|koronal
+synpic39853|bu hangi görüntü düzlemidir?|aksiyal
+synpic27338|bu mrg hangi düzlemde çekildi?|frontal
+synpic37881|mrg hangi düzlemde gösteriliyor?|aksiyal
+synpic33629|bu mrg hangi düzlemde elde edildi?|aksiyal
+synpic53877|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic39463|bu mrg hangi düzlemde çekildi?|aksiyal
+synpic43481|bu ultrason hangi düzlemde?|aksiyal
+synpic32126|bt taramasının düzlemi nedir?|aksiyal
+synpic44926|bu gastrointestinal görüntüde hangi organ sistemi gösteriliyor?|sagital
+synpic58300|görüntünün düzlemi nedir?|sagital
+synpic25880|hangi düzlem görülüyor?|oblik
+synpic16292|görüntü hangi düzlemde elde edilmiştir?|sagital
+synpic51136|bu görüntüde hangi organ sistemi gösteriliyor?|3b rekonstrüksiyon
+synpic49209|bu görüntü hangi düzlemde çekildi?|lateral
+synpic55813|bu mrg hangi düzlemde?|aksiyal
+synpic46847|bu mrg hangi düzlemde çekildi?|sagital
+synpic45382|mrg hangi düzlemde gösteriliyor?|sagital
+synpic55026|bu mrg hangi düzlemde?|koronal
+synpic21980|bu film hangi düzlemde?|pa
+synpic48249|görüntü hangi düzlemde elde edilmiştir?|aksiyal
+synpic54648|bu görüntü hangi düzlemde çekildi?|ap
+synpic16484|bu mamografi hangi düzlemde?|mammo - mlo
+synpic43447|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic54675|bu mrg hangi düzlemde elde edildi?|aksiyal
+synpic29463|düzlemi nedir?|aksiyal
+synpic47351|bu bt taraması hangi düzlemde?|aksiyal
+synpic17228|mrg hangi düzlemde gösteriliyor?|koronal
+synpic51490|bu bt taraması hangi düzlemde çekildi?|aksiyal
+synpic35880|hangi düzlem görülüyor?|sagital
+synpic34552|bu hangi düzlem?|aksiyal
+synpic52166|bu bt taraması hangi düzlemde çekildi?|sagital
+synpic21188|bu gastrointestinal görüntüde hangi organ sistemi gösteriliyor?|lateral
+synpic57585|bu görüntü hangi düzlemde konumlandırılmış?|lateral
+synpic40947|hangi düzlem kullanıldı?|aksiyal
+synpic29098|bu film hangi düzlemde?|mammo - cc
+synpic44506|bu mrg’de hangi düzlem kullanıldı?|koronal
+synpic52364|görüntü hangi düzlemde elde edilmiştir?|aksiyal
+synpic57208|görüntü hangi düzlemde elde edilmiştir?|aksiyal
+synpic57578|bu bt taraması hangi düzlemde çekildi?|koronal
+synpic58887|bu hangi görüntü düzlemidir?|koronal
+synpic50565|bu bt taraması hangi düzlemde?|aksiyal
+synpic56114|bu mrg hangi düzlemde?|aksiyal
+synpic23560|bu bt taraması hangi düzlemde?|aksiyal
+synpic34008|bu bt taraması hangi düzlemde?|koronal
+synpic16083|bu film hangi düzlemde?|aksiyal
+synpic52004|görüntünün düzlemi nedir?|longitudinal
+synpic15401|bu görüntü hangi düzlemde konumlandırılmış?|lateral
+synpic57801|bt taramasının düzlemi nedir?|aksiyal
+synpic25267|bu gastrointestinal görüntüde hangi organ sistemi gösteriliyor?|longitudinal
+synpic34632|bu bt taramasında hangi düzlem kullanıldı?|sagital
+synpic45021|bu bt taraması hangi düzlemde?|koronal
+synpic50410|hangi düzlem görülüyor?|sagital
+synpic47178|bu film hangi düzlemde?|lateral
+synpic40398|bu mrg hangi düzlemde?|aksiyal
+synpic18681|bu mrg hangi düzlemde?|sagital
+synpic38551|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic36540|bu mrg hangi düzlemde çekildi?|sagital
+synpic17203|hangi düzlem kullanıldı?|aksiyal
+synpic57633|bu mrg hangi düzlemde?|sagital
+synpic56511|bu mrg hangi düzlemde?|sagital
+synpic29500|bu röntgen hangi düzlemde?|pa
+synpic48897|bu görüntü hangi düzlemde çekildi?|aksiyal
+synpic45196|bu hangi düzlem?|aksiyal
+synpic45828|bu mrg hangi düzlemde?|koronal
+synpic60458|bu görüntü hangi düzlemde çekildi?|ap
+synpic43524|düzlemi nedir?|koronal
+synpic59568|burada hangi görüntü düzlemi gösterilmiştir?|sagital
+synpic48459|görüntü hangi düzlemde elde edilmiştir?|sagital
+synpic54733|görüntüde hangi organ sistemi gösteriliyor?|yüz, paranazal sinüsler ve boyun
+synpic25647|hangi organ sistemi görüntüleniyor?|akciğer, mediasten ve plevra
+synpic35681|vücudun hangi kısmı görüntüleniyor?|meme
+synpic39641|burada hangi organ sistemi gösteriliyor?|kas-iskelet sistemi
+synpic35693|bu mrg’de esas olarak gösterilen organ nedir?|kalp ve büyük damarlar
+synpic17419|bu bt taraması ile hangi organ sistemleri değerlendirilebilir?|gastrointestinal sistem
+synpic32909|bt taraması hangi organ sistemini gösteriyor?|gastrointestinal sistem
+synpic48040|bu görüntüde öncelikli olarak hangi organ sistemi mevcut?|kafatası ve intrakraniyal yapılar
+synpic48351|hangi organ sistemi görüntüleniyor?|akciğer, mediasten ve plevra
+synpic49503|vücudun hangi kısmı görüntüleniyor?|kafatası ve intrakraniyal yapılar
+synpic18176|bt taraması hangi organ sistemini gösteriyor?|gastrointestinal sistem
+synpic36498|bu röntgen vücudun hangi bölümünü gösteriyor?|akciğer, mediasten ve plevra
+synpic26850|hangi organ sistemi görüntülendi?|kalp ve büyük damarlar
+synpic19508|bu görüntüdeki organ sistemi nedir?|genitoüriner sistem
+synpic23496|hangi organ sistemi görselleştiriliyor?|kafatası ve intrakraniyal yapılar
+synpic25435|bu mrg’yle hangi organ görüntülendi?|kafatası ve intrakraniyal yapılar
+synpic38894|öncelikli olarak hangi organ sistemi değerlendiriliyor?|gastrointestinal sistem
+synpic25620|bu röntgen ile hangi organ sistemleri değerlendirilebilir?|kas-iskelet sistemi
+synpic25634|röntgen hangi organ sistemini gösteriyor?|kas-iskelet sistemi
+synpic36490|bu röntgende esas olarak gösterilen organ nedir?|kafatası ve intrakraniyal yapılar
+synpic40658|hangi organ sistemi görüntülendi?|kafatası ve intrakraniyal yapılar
+synpic27614|bu görüntüde öncelikli olarak hangi organ sistemi mevcut?|kas-iskelet sistemi
+synpic26245|burada vücudun hangi kısmı görüntüleniyor?|kafatası ve intrakraniyal yapılar
+synpic25628|bu röntgen ile hangi organ sistemleri değerlendirilebilir?|kas-iskelet sistemi
+synpic34446|bu mr görüntüsünde hangi organ sistemi gösteriliyor?|yüz, paranazal sinüsler ve boyun
+synpic28899|bu görüntü hangi organa ait?|kas-iskelet sistemi
+synpic28331|hangi organ sistemi görselleştiriliyor?|genitoüriner sistem
+synpic55791|hangi organ sistemi görüntülendi?|kafatası ve intrakraniyal yapılar
+synpic32867|görüntüde hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic21201|bu röntgende hangi organ sistemi gösteriliyor?|kas-iskelet sistemi
+synpic20686|bu görüntü hangi organa ait?|meme
+synpic17412|vücudun hangi kısmı görüntüleniyor?|gastrointestinal sistem
+synpic53907|bu bt taramasında hangi organ sistemi gösteriliyor?|yüz, paranazal sinüsler ve boyun
+synpic24024|bu ultrason görüntüsünde hangi organ sistemi gösteriliyor?|genitoüriner sistem
+synpic59540|vücudun hangi kısmı görüntüleniyor?|kafatası ve intrakraniyal yapılar
+synpic19169|bu görüntü hangi organa ait?|kas-iskelet sistemi
+synpic52424|bu görüntüde görülen organ sistemlerinden biri nedir?|omurga ve spinal kanal içeriği
+synpic52430|bu mrg’de esas olarak gösterilen organ nedir?|kas-iskelet sistemi
+synpic51878|bu mr görüntüsü hangi organı gösteriyor?|gastrointestinal sistem
+synpic25109|bu görüntü hangi organa ait?|kafatası ve intrakraniyal yapılar
+synpic21186|burada vücudun hangi kısmı görüntüleniyor?|kas-iskelet sistemi
+synpic52140|burada vücudun hangi kısmı görüntüleniyor?|yüz, paranazal sinüsler ve boyun
+synpic32893|vücudun hangi kısmı görüntüleniyor?|gastrointestinal sistem
+synpic25451|öncelikli olarak hangi organ sistemi değerlendiriliyor?|akciğer, mediasten ve plevra
+synpic18101|röntgen hangi organ sistemini gösteriyor?|omurga ve spinal kanal içeriği
+synpic18115|burada hangi organ sistemi gösteriliyor?|kas-iskelet sistemi
+synpic17583|hangi organ sistemi görselleştiriliyor?|kas-iskelet sistemi
+synpic100295|bu görüntüde görülen organ sistemlerinden biri nedir?|genitoüriner sistem
+synpic46243|bu mr görüntüsünde hangi organ sistemi gösteriliyor?|omurga ve spinal kanal içeriği
+synpic38951|hangi organ sistemi görselleştiriliyor?|kas-iskelet sistemi
+synpic60290|bt taraması hangi organ sistemini gösteriyor?|genitoüriner sistem
+synpic17970|görüntüde hangi organ sistemi gösteriliyor?|kas-iskelet sistemi
+synpic17780|bu gastrointestinal görüntü vücudun hangi bölümünü gösteriyor?|gastrointestinal sistem
+synpic28216|bu gastrointestinal görüntüde esas olarak gösterilen organ hangisidir?|gastrointestinal sistem
+synpic31753|bu bt taraması hangi organı gösteriyor?|vasküler ve lenfatik sistem
+synpic16475|burada hangi organ sistemi gösteriliyor?|gastrointestinal sistem
+synpic38575|bu mr görüntüsünde hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic41707|bu görüntüde öncelikli olarak hangi organ sistemi mevcut?|omurga ve spinal kanal içeriği
+synpic26950|görüntüde hangi organ sistemi gösteriliyor?|gastrointestinal sistem
+synpic18921|bu görüntüde öncelikli olarak hangi organ sistemi mevcut?|genitoüriner sistem
+synpic29054|bu röntgen hangi organı gösteriyor?|kas-iskelet sistemi
+synpic56870|bu görüntüde görülen organ sistemlerinden biri nedir?|omurga ve spinal kanal içeriği
+synpic21385|mrg hangi organ sistemini gösteriyor?|kafatası ve intrakraniyal yapılar
+synpic57577|hangi organ sistemi görüntülendi?|kafatası ve intrakraniyal yapılar
+synpic40779|hangi organ sistemi görselleştiriliyor?|gastrointestinal sistem
+synpic49985|görüntüde hangi organ sistemi gösteriliyor?|omurga ve spinal kanal içeriği
+synpic50556|hangi organ sistemi görselleştiriliyor?|kafatası ve intrakraniyal yapılar
+synpic57239|bu mrg’de hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic54730|hangi organ sistemi görüntüleniyor?|gastrointestinal sistem
+synpic52631|bu mrg’de hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic28837|hangi organ sistemi görüntülendi?|kafatası ve intrakraniyal yapılar
+synpic39709|öncelikli olarak hangi organ sistemi değerlendiriliyor?|kafatası ve intrakraniyal yapılar
+synpic61204|burada vücudun hangi kısmı görüntüleniyor?|kas-iskelet sistemi
+synpic27523|bu bt taraması hangi organı gösteriyor?|akciğer, mediasten ve plevra
+synpic61238|öncelikli olarak hangi organ sistemi değerlendiriliyor?|kafatası ve intrakraniyal yapılar
+synpic58532|bu mrg’de esas olarak gösterilen organ nedir?|kafatası ve intrakraniyal yapılar
+synpic45577|burada vücudun hangi kısmı görüntüleniyor?|kafatası ve intrakraniyal yapılar
+synpic39696|bu görüntüdeki organ sistemi nedir?|kafatası ve intrakraniyal yapılar
+synpic23157|bu görüntüde öncelikli olarak hangi organ sistemi mevcut?|kafatası ve intrakraniyal yapılar
+synpic23631|hangi organ sistemi görselleştiriliyor?|kafatası ve intrakraniyal yapılar
+synpic27319|bu röntgenle hangi organ görüntülendi?|kas-iskelet sistemi
+synpic51072|hangi organ sistemi görüntülendi?|kafatası ve intrakraniyal yapılar
+synpic53659|burada hangi organ sistemi gösteriliyor?|akciğer, mediasten ve plevra
+synpic58095|bu bt taraması hangi organı gösteriyor?|gastrointestinal sistem
+synpic60250|bu görüntü hangi organa ait?|kafatası ve intrakraniyal yapılar
+synpic40194|bu bt taraması vücudun hangi bölümünü gösteriyor?|kas-iskelet sistemi
+synpic29645|bu görüntüde öncelikli olarak hangi organ sistemi mevcut?|kas-iskelet sistemi
+synpic31036|bu görüntüde öncelikli olarak hangi organ sistemi mevcut?|akciğer, mediasten ve plevra
+synpic33806|burada vücudun hangi kısmı görüntüleniyor?|kafatası ve intrakraniyal yapılar
+synpic27873|bu görsel hangi organı gösteriyor?|meme
+synpic38953|bu röntgende esas olarak gösterilen organ nedir?|kas-iskelet sistemi
+synpic49172|bu görüntüde öncelikli olarak hangi organ sistemi mevcut?|kas-iskelet sistemi
+synpic59407|bu görüntüde görülen organ sistemlerinden biri nedir?|yüz, paranazal sinüsler ve boyun
+synpic43477|hangi organ sistemi görüntülendi?|kas-iskelet sistemi
+synpic53314|bu görüntüdeki organ sistemi nedir?|kafatası ve intrakraniyal yapılar
+synpic46876|bu röntgen vücudun hangi bölümünü gösteriyor?|akciğer, mediasten ve plevra
+synpic28188|hangi organ sistemi görselleştiriliyor?|kas-iskelet sistemi
+synpic47573|bu görüntü hangi organa ait?|kafatası ve intrakraniyal yapılar
+synpic30260|hangi organ sistemi görüntüleniyor?|vasküler ve lenfatik sistem
+synpic45827|hangi organ sistemi görüntülendi?|kafatası ve intrakraniyal yapılar
+synpic27046|hangi organ sistemi görselleştiriliyor?|kas-iskelet sistemi
+synpic20729|bt taraması hangi organ sistemini gösteriyor?|omurga ve spinal kanal içeriği
+synpic30248|bu bt taramasında hangi organ sistemi gösteriliyor?|kalp ve büyük damarlar
+synpic53738|görüntüde hangi organ sistemi gösteriliyor?|omurga ve spinal kanal içeriği
+synpic17620|bu bt taraması hangi organı gösteriyor?|gastrointestinal sistem
+synpic47017|bu mr görüntüsünde hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic41314|görüntüde hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic55403|bu bt taramasında esas olarak gösterilen organ nedir?|kafatası ve intrakraniyal yapılar
+synpic27730|vücudun hangi kısmı görüntüleniyor?|gastrointestinal sistem
+synpic58682|hangi organ sistemi görüntülendi?|omurga ve spinal kanal içeriği
+synpic50023|hangi organ sistemi görüntülendi?|akciğer, mediasten ve plevra
+synpic57758|mrg hangi organ sistemini gösteriyor?|kafatası ve intrakraniyal yapılar
+synpic19225|bu mrg ile hangi organ sistemleri değerlendirilebilir?|kafatası ve intrakraniyal yapılar
+synpic16880|hangi organ sistemi görüntülendi?|kas-iskelet sistemi
+synpic48730|hangi organ sistemi görüntülendi?|genitoüriner sistem
+synpic21786|öncelikli olarak hangi organ sistemi değerlendiriliyor?|yüz, paranazal sinüsler ve boyun
+synpic25090|bu bt taramasında hangi organ sistemi gösteriliyor?|gastrointestinal sistem
+synpic58912|bu mrg ile hangi organ sistemleri değerlendirilebilir?|kafatası ve intrakraniyal yapılar
+synpic35240|bu görüntü hangi organa ait?|kafatası ve intrakraniyal yapılar
+synpic33143|bu mrg’de hangi organ sistemi gösteriliyor?|kas-iskelet sistemi
+synpic28204|görüntüde hangi organ sistemi gösteriliyor?|gastrointestinal sistem
+synpic26201|bu röntgende esas olarak gösterilen organ nedir?|kafatası ve intrakraniyal yapılar
+synpic41271|bu röntgenle hangi organ görüntülendi?|kas-iskelet sistemi
+synpic8182|bu görüntüdeki organ sistemi nedir?|gastrointestinal sistem
+synpic57188|bu mr görüntüsünde hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic43843|hangi organ sistemi görselleştiriliyor?|kafatası ve intrakraniyal yapılar
+synpic36210|burada hangi organ sistemi gösteriliyor?|yüz, paranazal sinüsler ve boyun
+synpic58495|burada hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic40231|bu mr vücudun hangi bölümünü gösteriyor?|kafatası ve intrakraniyal yapılar
+synpic40782|bu bt taraması ile hangi organ sistemleri değerlendirilebilir?|omurga ve spinal kanal içeriği
+synpic53098|bu mrg’de esas olarak gösterilen organ nedir?|kafatası ve intrakraniyal yapılar
+synpic31184|bt taraması hangi organ sistemini gösteriyor?|genitoüriner sistem
+synpic56123|bu görüntüde öncelikli olarak hangi organ sistemi mevcut?|kas-iskelet sistemi
+synpic59548|bt taraması hangi organ sistemini gösteriyor?|kafatası ve intrakraniyal yapılar
+synpic21418|görüntüde hangi organ sistemi gösteriliyor?|akciğer, mediasten ve plevra
+synpic17814|vücudun hangi kısmı görüntüleniyor?|gastrointestinal sistem
+synpic22893|hangi organ sistemi görüntülendi?|yüz, paranazal sinüsler ve boyun
+synpic33236|bu anjiyogramda hangi organ sistemi gösteriliyor?|vasküler ve lenfatik sistem
+synpic59945|bu bt taramasıyla hangi organ görüntülendi?|kafatası ve intrakraniyal yapılar
+synpic27492|görüntüde hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic45565|bu bt taraması hangi organı gösteriyor?|akciğer, mediasten ve plevra
+synpic16883|bu mr vücudun hangi bölümünü gösteriyor?|kas-iskelet sistemi
+synpic43699|bu mr görüntüsü hangi organı gösteriyor?|kafatası ve intrakraniyal yapılar
+synpic23151|görüntüde hangi organ sistemi gösteriliyor?|akciğer, mediasten ve plevra
+synpic21020|burada hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic52596|burada hangi organ sistemi gösteriliyor?|omurga ve spinal kanal içeriği
+synpic56901|bu mr görüntüsünde hangi organ sistemi gösteriliyor?|omurga ve spinal kanal içeriği
+synpic38404|görüntüde hangi organ sistemi gösteriliyor?|omurga ve spinal kanal içeriği
+synpic40597|bu bt taramasıyla hangi organ görüntülendi?|genitoüriner sistem
+synpic26612|hangi organ sistemi görüntüleniyor?|kafatası ve intrakraniyal yapılar
+synpic100332|vücudun hangi kısmı görüntüleniyor?|omurga ve spinal kanal içeriği
+synpic26809|bu bt taraması hangi organı gösteriyor?|genitoüriner sistem
+synpic59005|görüntüde hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic43576|bu röntgende hangi organ sistemi gösteriliyor?|kas-iskelet sistemi
+synpic33913|bu görüntüde görülen organ sistemlerinden biri nedir?|genitoüriner sistem
+synpic23255|bu bt taraması ile hangi organ sistemleri değerlendirilebilir?|kafatası ve intrakraniyal yapılar
+synpic21442|görüntüde hangi organ sistemi gösteriliyor?|genitoüriner sistem
+synpic38885|bu bt taramasında hangi organ sistemi gösteriliyor?|gastrointestinal sistem
+synpic17866|bu bt taramasıyla hangi organ görüntülendi?|genitoüriner sistem
+synpic24512|bu görüntüde öncelikli olarak hangi organ sistemi mevcut?|kafatası ve intrakraniyal yapılar
+synpic24506|bu mr görüntüsünde hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic39557|bu röntgen vücudun hangi bölümünü gösteriyor?|akciğer, mediasten ve plevra
+synpic33293|burada vücudun hangi kısmı görüntüleniyor?|gastrointestinal sistem
+synpic13143|bu mrg’yle hangi organ görüntülendi?|yüz, paranazal sinüsler ve boyun
+synpic17319|bu görüntüde görülen organ sistemlerinden biri nedir?|gastrointestinal sistem
+synpic33481|bu görüntü hangi organa ait?|akciğer, mediasten ve plevra
+synpic24857|bu bt taramasında hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic37195|bu bt taramasında esas olarak gösterilen organ nedir?|genitoüriner sistem
+synpic48796|bu görüntüde öncelikli olarak hangi organ sistemi mevcut?|akciğer, mediasten ve plevra
+synpic47664|öncelikli olarak hangi organ sistemi değerlendiriliyor?|kafatası ve intrakraniyal yapılar
+synpic56027|öncelikli olarak hangi organ sistemi değerlendiriliyor?|kafatası ve intrakraniyal yapılar
+synpic42084|bu görüntü hangi organa ait?|kafatası ve intrakraniyal yapılar
+synpic37433|hangi organ sistemi görüntülendi?|yüz, paranazal sinüsler ve boyun
+synpic34853|hangi organ sistemi görüntülendi?|kafatası ve intrakraniyal yapılar
+synpic32749|hangi organ sistemi görselleştiriliyor?|omurga ve spinal kanal içeriği
+synpic60966|öncelikli olarak hangi organ sistemi değerlendiriliyor?|akciğer, mediasten ve plevra
+synpic25382|görüntüde hangi organ sistemi gösteriliyor?|vasküler ve lenfatik sistem
+synpic39967|burada hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic27768|bu anjiyogramda hangi organ sistemi gösteriliyor?|vasküler ve lenfatik sistem
+synpic30200|hangi organ sistemi görselleştiriliyor?|yüz, paranazal sinüsler ve boyun
+synpic31678|burada hangi organ sistemi gösteriliyor?|kas-iskelet sistemi
+synpic53994|hangi organ sistemi görüntüleniyor?|kafatası ve intrakraniyal yapılar
+synpic49072|bu mrg’de esas olarak gösterilen organ nedir?|kafatası ve intrakraniyal yapılar
+synpic19651|hangi organ sistemi görüntüleniyor?|omurga ve spinal kanal içeriği
+synpic53980|bu mrg ile hangi organ sistemleri değerlendirilebilir?|kafatası ve intrakraniyal yapılar
+synpic33084|bu görüntüdeki organ sistemi nedir?|genitoüriner sistem
+synpic56608|bu bt taraması ile hangi organ sistemleri değerlendirilebilir?|omurga ve spinal kanal içeriği
+synpic48422|bu mrg’de esas olarak gösterilen organ nedir?|kafatası ve intrakraniyal yapılar
+synpic46419|hangi organ sistemi görüntülendi?|kafatası ve intrakraniyal yapılar
+synpic17124|bu röntgenle hangi organ görüntülendi?|kas-iskelet sistemi
+synpic47049|bu bt taramasıyla hangi organ görüntülendi?|gastrointestinal sistem
+synpic40915|bu görüntü hangi organa ait?|kafatası ve intrakraniyal yapılar
+synpic51818|bu görüntü hangi organa ait?|kafatası ve intrakraniyal yapılar
+synpic32401|röntgen hangi organ sistemini gösteriyor?|yüz, paranazal sinüsler ve boyun
+synpic34070|öncelikli olarak hangi organ sistemi değerlendiriliyor?|gastrointestinal sistem
+synpic55854|hangi organ sistemi görselleştiriliyor?|kafatası ve intrakraniyal yapılar
+synpic29237|bu röntgen görüntüsünde hangi organ sistemi gösteriliyor?|kas-iskelet sistemi
+synpic39193|hangi organ sistemi görselleştiriliyor?|kas-iskelet sistemi
+synpic33455|hangi organ sistemi görüntülendi?|genitoüriner sistem
+synpic41564|bu görüntüde görülen organ sistemlerinden biri nedir?|kafatası ve intrakraniyal yapılar
+synpic54169|öncelikli olarak hangi organ sistemi değerlendiriliyor?|kafatası ve intrakraniyal yapılar
+synpic57312|bu bt taramasında hangi organ sistemi gösteriliyor?|omurga ve spinal kanal içeriği
+synpic54627|bu mrg ile hangi organ sistemleri değerlendirilebilir?|kafatası ve intrakraniyal yapılar
+synpic58790|bu bt taramasında esas olarak gösterilen organ nedir?|kafatası ve intrakraniyal yapılar
+synpic58974|görüntüde hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic35568|bu bt taraması hangi organı gösteriyor?|kafatası ve intrakraniyal yapılar
+synpic53835|hangi organ sistemi görüntüleniyor?|kalp ve büyük damarlar
+synpic47855|mrg hangi organ sistemini gösteriyor?|omurga ve spinal kanal içeriği
+synpic58008|bu bt taraması vücudun hangi bölümünü gösteriyor?|omurga ve spinal kanal içeriği
+synpic15120|hangi organ sistemi görüntülendi?|omurga ve spinal kanal içeriği
+synpic33695|hangi organ sistemi görüntülendi?|kas-iskelet sistemi
+synpic100545|hangi organ sistemi görüntüleniyor?|omurga ve spinal kanal içeriği
+synpic58544|bu görüntüde öncelikli olarak hangi organ sistemi mevcut?|kafatası ve intrakraniyal yapılar
+synpic32825|vücudun hangi kısmı görüntüleniyor?|gastrointestinal sistem
+synpic41613|görüntüde hangi organ sistemi gösteriliyor?|gastrointestinal sistem
+synpic39569|bu röntgen hangi organı gösteriyor?|kas-iskelet sistemi
+synpic24538|vücudun hangi kısmı görüntüleniyor?|kalp ve büyük damarlar
+synpic17121|bu röntgen ile hangi organ sistemleri değerlendirilebilir?|meme
+synpic34061|bu görüntü hangi organa ait?|gastrointestinal sistem
+synpic36110|burada hangi organ sistemi gösteriliyor?|kas-iskelet sistemi
+synpic56814|bu görüntü hangi organa ait?|kas-iskelet sistemi
+synpic43955|hangi organ sistemi görüntülendi?|kas-iskelet sistemi
+synpic54434|öncelikli olarak hangi organ sistemi değerlendiriliyor?|kafatası ve intrakraniyal yapılar
+synpic24879|hangi organ sistemi görüntüleniyor?|gastrointestinal sistem
+synpic39828|bu mrg ile hangi organ sistemleri değerlendirilebilir?|kafatası ve intrakraniyal yapılar
+synpic48021|hangi organ sistemi görüntülendi?|kafatası ve intrakraniyal yapılar
+synpic49129|bu bt taraması hangi organı gösteriyor?|genitoüriner sistem
+synpic58742|bu görüntüde görülen organ sistemlerinden biri nedir?|kafatası ve intrakraniyal yapılar
+synpic15871|bu bt taramasıyla hangi organ görüntülendi?|kas-iskelet sistemi
+synpic58965|bu mrg ile hangi organ sistemleri değerlendirilebilir?|kafatası ve intrakraniyal yapılar
+synpic39357|hangi organ sistemi görselleştiriliyor?|kalp ve büyük damarlar
+synpic60223|hangi organ sistemi görüntüleniyor?|kafatası ve intrakraniyal yapılar
+synpic34841|bu mrg’de esas olarak gösterilen organ nedir?|kas-iskelet sistemi
+synpic21041|bu bt taramasında hangi organ sistemi gösteriliyor?|kalp ve büyük damarlar
+synpic55071|bu görüntüde görülen organ sistemlerinden biri nedir?|kafatası ve intrakraniyal yapılar
+synpic41825|bu mrg’yle hangi organ görüntülendi?|kas-iskelet sistemi
+synpic55850|burada vücudun hangi kısmı görüntüleniyor?|kafatası ve intrakraniyal yapılar
+synpic34276|bu mrg’de hangi organ sistemi gösteriliyor?|omurga ve spinal kanal içeriği
+synpic25384|bu mr görüntüsünde hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic43767|hangi organ sistemi görüntülendi?|kafatası ve intrakraniyal yapılar
+synpic23252|bu ultrasonla hangi organ görüntülendi?|genitoüriner sistem
+synpic53789|bu görüntüde görülen organ sistemlerinden biri nedir?|kafatası ve intrakraniyal yapılar
+synpic52468|mrg hangi organ sistemini gösteriyor?|kafatası ve intrakraniyal yapılar
+synpic42135|hangi organ sistemi görselleştiriliyor?|kas-iskelet sistemi
+synpic58184|bu mr vücudun hangi bölümünü gösteriyor?|kafatası ve intrakraniyal yapılar
+synpic48397|bu görüntüde öncelikli olarak hangi organ sistemi mevcut?|kafatası ve intrakraniyal yapılar
+synpic45466|burada vücudun hangi kısmı görüntüleniyor?|yüz, paranazal sinüsler ve boyun
+synpic46966|bu görüntüdeki organ sistemi nedir?|kas-iskelet sistemi
+synpic39618|bu röntgende hangi organ sistemi gösteriliyor?|kas-iskelet sistemi
+synpic18359|görüntüde hangi organ sistemi gösteriliyor?|kas-iskelet sistemi
+synpic56036|görüntüde hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic49116|öncelikli olarak hangi organ sistemi değerlendiriliyor?|omurga ve spinal kanal içeriği
+synpic53199|bt taraması hangi organ sistemini gösteriyor?|kafatası ve intrakraniyal yapılar
+synpic38739|hangi organ sistemi görüntülendi?|genitoüriner sistem
+synpic17902|hangi organ sistemi görselleştiriliyor?|kafatası ve intrakraniyal yapılar
+synpic22952|görüntüde hangi organ sistemi gösteriliyor?|genitoüriner sistem
+synpic16361|bu mrg’de esas olarak gösterilen organ nedir?|kas-iskelet sistemi
+synpic19052|bu görüntüde öncelikli olarak hangi organ sistemi mevcut?|gastrointestinal sistem
+synpic27433|bu ultrason görüntüsünde hangi organ sistemi gösteriliyor?|genitoüriner sistem
+synpic54393|bu mr vücudun hangi bölümünü gösteriyor?|kafatası ve intrakraniyal yapılar
+synpic42268|hangi organ sistemi görüntülendi?|kas-iskelet sistemi
+synpic17527|vücudun hangi kısmı görüntüleniyor?|akciğer, mediasten ve plevra
+synpic43604|bu ultrasonda esas olarak gösterilen organ nedir?|genitoüriner sistem
+synpic50917|bu görüntü hangi organa ait?|kafatası ve intrakraniyal yapılar
+synpic39751|görüntüde hangi organ sistemi gösteriliyor?|kas-iskelet sistemi
+synpic21687|görüntüde hangi organ sistemi gösteriliyor?|vasküler ve lenfatik sistem
+synpic35180|bu görüntüde öncelikli olarak hangi organ sistemi mevcut?|genitoüriner sistem
+synpic18012|burada vücudun hangi kısmı görüntüleniyor?|kafatası ve intrakraniyal yapılar
+synpic16765|burada hangi organ sistemi gösteriliyor?|kas-iskelet sistemi
+synpic19640|vücudun hangi kısmı görüntüleniyor?|vasküler ve lenfatik sistem
+synpic54017|bu görüntü hangi organa ait?|yüz, paranazal sinüsler ve boyun
+synpic33926|bu bt taraması ile hangi organ sistemleri değerlendirilebilir?|genitoüriner sistem
+synpic59241|bu mr vücudun hangi bölümünü gösteriyor?|kafatası ve intrakraniyal yapılar
+synpic44990|bu görüntüdeki organ sistemi nedir?|omurga ve spinal kanal içeriği
+synpic28094|bu röntgen ile hangi organ sistemleri değerlendirilebilir?|kas-iskelet sistemi
+synpic35947|hangi organ sistemi görüntülendi?|omurga ve spinal kanal içeriği
+synpic41793|bu mr görüntüsü hangi organı gösteriyor?|omurga ve spinal kanal içeriği
+synpic43423|bu görüntüde görülen organ sistemlerinden biri nedir?|kas-iskelet sistemi
+synpic16378|görüntüde hangi organ sistemi gösteriliyor?|kas-iskelet sistemi
+synpic33107|bu mrg’de esas olarak gösterilen organ nedir?|kafatası ve intrakraniyal yapılar
+synpic47877|bu görüntüde öncelikli olarak hangi organ sistemi mevcut?|kafatası ve intrakraniyal yapılar
+synpic22547|bu bt taraması vücudun hangi bölümünü gösteriyor?|genitoüriner sistem
+synpic33489|burada vücudun hangi kısmı görüntüleniyor?|gastrointestinal sistem
+synpic20393|bu röntgenle hangi organ görüntülendi?|kas-iskelet sistemi
+synpic50674|bu mrg’de esas olarak gösterilen organ nedir?|omurga ve spinal kanal içeriği
+synpic46002|bu bt taramasında hangi organ sistemi gösteriliyor?|kalp ve büyük damarlar
+synpic41751|bu görüntüdeki organ sistemi nedir?|omurga ve spinal kanal içeriği
+synpic21890|bu mr vücudun hangi bölümünü gösteriyor?|gastrointestinal sistem
+synpic9384|bu röntgen görüntüsünde hangi organ sistemi gösteriliyor?|vasküler ve lenfatik sistem
+synpic31315|hangi organ sistemi görüntülendi?|meme
+synpic38331|hangi organ sistemi görüntülendi?|kas-iskelet sistemi
+synpic25374|bu ultrasonda esas olarak gösterilen organ nedir?|vasküler ve lenfatik sistem
+synpic54214|bu bt taramasında hangi organ sistemi gösteriliyor?|omurga ve spinal kanal içeriği
+synpic56615|bu bt taramasıyla hangi organ görüntülendi?|omurga ve spinal kanal içeriği
+synpic37599|bu mrg’yle hangi organ görüntülendi?|vasküler ve lenfatik sistem
+synpic55308|vücudun hangi kısmı görüntüleniyor?|gastrointestinal sistem
+synpic45133|bt taraması hangi organ sistemini gösteriyor?|gastrointestinal sistem
+synpic54994|bu bt taramasında esas olarak gösterilen organ nedir?|kafatası ve intrakraniyal yapılar
+synpic41341|bu görüntü hangi organa ait?|yüz, paranazal sinüsler ve boyun
+synpic54766|bu mrg’de esas olarak gösterilen organ nedir?|yüz, paranazal sinüsler ve boyun
+synpic22196|bu görüntüdeki organ sistemi nedir?|genitoüriner sistem
+synpic29772|burada vücudun hangi kısmı görüntüleniyor?|kas-iskelet sistemi
+synpic18008|görüntüde hangi organ sistemi gösteriliyor?|kas-iskelet sistemi
+synpic30800|hangi organ sistemi görüntülendi?|kalp ve büyük damarlar
+synpic41960|what is the organ principally shown in this gastrointestinal image?|gastrointestinal sistem
+synpic28295|görüntüde hangi organ sistemi gösteriliyor?|yüz, paranazal sinüsler ve boyun
+synpic24487|bu anjiyogramda hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic20187|burada hangi organ sistemi gösteriliyor?|vasküler ve lenfatik sistem
+synpic26246|mrg hangi organ sistemini gösteriyor?|kafatası ve intrakraniyal yapılar
+synpic16352|bu bt taraması vücudun hangi bölümünü gösteriyor?|vasküler ve lenfatik sistem
+synpic59337|burada vücudun hangi kısmı görüntüleniyor?|akciğer, mediasten ve plevra
+synpic48212|bu röntgen görüntüsünde hangi organ sistemi gösteriliyor?|akciğer, mediasten ve plevra
+synpic57871|bu anjiyogram vücudun hangi bölümünü gösteriyor?|kafatası ve intrakraniyal yapılar
+synpic34454|görüntüde hangi organ sistemi gösteriliyor?|gastrointestinal sistem
+synpic17299|bu anjiyogram vücudun hangi bölümünü gösteriyor?|vasküler ve lenfatik sistem
+synpic28733|hangi organ sistemi görüntüleniyor?|akciğer, mediasten ve plevra
+synpic55727|mrg hangi organ sistemini gösteriyor?|meme
+synpic45246|burada vücudun hangi kısmı görüntüleniyor?|akciğer, mediasten ve plevra
+synpic57642|hangi organ sistemi görselleştiriliyor?|kafatası ve intrakraniyal yapılar
+synpic60171|bu görüntüdeki organ sistemi nedir?|yüz, paranazal sinüsler ve boyun
+synpic29565|bu röntgen vücudun hangi bölümünü gösteriyor?|akciğer, mediasten ve plevra
+synpic19303|bu görüntü ile hangi organ sistemleri değerlendirilebilir?|meme
+synpic51353|bu mrg’yle hangi organ görüntülendi?|kafatası ve intrakraniyal yapılar
+synpic26332|bu bt taramasında esas olarak gösterilen organ nedir?|akciğer, mediasten ve plevra
+synpic53785|vücudun hangi kısmı görüntüleniyor?|kafatası ve intrakraniyal yapılar
+synpic53024|bu bt taramasında hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic45861|görüntüde hangi organ sistemi gösteriliyor?|gastrointestinal sistem
+synpic31104|bu görüntüde görülen organ sistemlerinden biri nedir?|akciğer, mediasten ve plevra
+synpic49242|burada hangi organ sistemi gösteriliyor?|omurga ve spinal kanal içeriği
+synpic41636|bu bt taraması hangi organı gösteriyor?|yüz, paranazal sinüsler ve boyun
+synpic58401|vücudun hangi kısmı görüntüleniyor?|kalp ve büyük damarlar
+synpic51357|bu mr görüntüsünde hangi organ sistemi gösteriliyor?|yüz, paranazal sinüsler ve boyun
+synpic44955|bu görüntü hangi organa ait?|yüz, paranazal sinüsler ve boyun
+synpic23070|burada hangi organ sistemi gösteriliyor?|gastrointestinal sistem
+synpic47469|hangi organ sistemi görselleştiriliyor?|kafatası ve intrakraniyal yapılar
+synpic19529|burada hangi organ sistemi gösteriliyor?|akciğer, mediasten ve plevra
+synpic46993|bu mrg’de hangi organ sistemi gösteriliyor?|omurga ve spinal kanal içeriği
+synpic28051|bt taraması hangi organ sistemini gösteriyor?|kafatası ve intrakraniyal yapılar
+synpic58993|burada hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic43431|burada vücudun hangi kısmı görüntüleniyor?|gastrointestinal sistem
+synpic20814|hangi organ sistemi görselleştiriliyor?|meme
+synpic46549|bu gastrointestinal görüntü ile hangi organ sistemleri değerlendirilebilir?|gastrointestinal sistem
+synpic54830|öncelikli olarak hangi organ sistemi değerlendiriliyor?|kas-iskelet sistemi
+synpic40845|bu mr görüntüsünde hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic35203|bu mrg ile hangi organ sistemleri değerlendirilebilir?|kafatası ve intrakraniyal yapılar
+synpic58951|hangi organ sistemi görüntülendi?|yüz, paranazal sinüsler ve boyun
+synpic51752|bu ultrason hangi organı gösteriyor?|kafatası ve intrakraniyal yapılar
+synpic19716|görüntüde hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic56001|anjiyogram hangi organ sistemini gösteriyor?|kafatası ve intrakraniyal yapılar
+synpic55508|bu görüntüde öncelikli olarak hangi organ sistemi mevcut?|yüz, paranazal sinüsler ve boyun
+synpic32746|görüntüde hangi organ sistemi gösteriliyor?|kas-iskelet sistemi
+synpic52918|bu görüntü hangi organa ait?|kafatası ve intrakraniyal yapılar
+synpic21672|bu görüntüde görülen organ sistemlerinden biri nedir?|gastrointestinal sistem
+synpic51395|bu mrg ile hangi organ sistemleri değerlendirilebilir?|kafatası ve intrakraniyal yapılar
+synpic27571|hangi organ sistemi görselleştiriliyor?|kas-iskelet sistemi
+synpic50921|hangi organ sistemi görüntülendi?|kafatası ve intrakraniyal yapılar
+synpic53596|bu mr görüntüsünde hangi organ sistemi gösteriliyor?|kalp ve büyük damarlar
+synpic32632|bu röntgende esas olarak gösterilen organ nedir?|kas-iskelet sistemi
+synpic59939|bu mrg’de esas olarak gösterilen organ nedir?|kafatası ve intrakraniyal yapılar
+synpic22390|bu bt taraması hangi organı gösteriyor?|kas-iskelet sistemi
+synpic28454|öncelikli olarak hangi organ sistemi değerlendiriliyor?|gastrointestinal sistem
+synpic40703|vücudun hangi kısmı görüntüleniyor?|kafatası ve intrakraniyal yapılar
+synpic38876|hangi organ sistemi görüntülendi?|kafatası ve intrakraniyal yapılar
+synpic15700|bu mrg’de esas olarak gösterilen organ nedir?|vasküler ve lenfatik sistem
+synpic21328|burada hangi organ sistemi gösteriliyor?|omurga ve spinal kanal içeriği
+synpic44995|bu görüntüde öncelikli olarak hangi organ sistemi mevcut?|kafatası ve intrakraniyal yapılar
+synpic48836|ultrason hangi organ sistemini gösteriyor?|kalp ve büyük damarlar
+synpic26651|burada hangi organ sistemi gösteriliyor?|kalp ve büyük damarlar
+synpic57862|bu görüntüde görülen organ sistemlerinden biri nedir?|kafatası ve intrakraniyal yapılar
+synpic43817|burada vücudun hangi kısmı görüntüleniyor?|kas-iskelet sistemi
+synpic24495|bu röntgen görüntüsünde hangi organ sistemi gösteriliyor?|vasküler ve lenfatik sistem
+synpic22755|burada hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic34123|bu bt taramasında hangi organ sistemi gösteriliyor?|genitoüriner sistem
+synpic22741|bu mr görüntüsü hangi organı gösteriyor?|omurga ve spinal kanal içeriği
+synpic33102|bu röntgen ile hangi organ sistemleri değerlendirilebilir?|akciğer, mediasten ve plevra
+synpic47683|görüntüde hangi organ sistemi gösteriliyor?|yüz, paranazal sinüsler ve boyun
+synpic19933|bu görüntüde görülen organ sistemlerinden biri nedir?|akciğer, mediasten ve plevra
+synpic53152|bu mrg’de esas olarak gösterilen organ nedir?|kafatası ve intrakraniyal yapılar
+synpic40660|görüntüde hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic31933|burada vücudun hangi kısmı görüntüleniyor?|kafatası ve intrakraniyal yapılar
+synpic24899|burada vücudun hangi kısmı görüntüleniyor?|kas-iskelet sistemi
+synpic55682|bu görüntü hangi organa ait?|kafatası ve intrakraniyal yapılar
+synpic53581|bu röntgende hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic11771|bu görüntüde öncelikli olarak hangi organ sistemi mevcut?|kafatası ve intrakraniyal yapılar
+synpic31884|bu görüntüdeki organ sistemi nedir?|gastrointestinal sistem
+synpic17664|hangi organ sistemi görselleştiriliyor?|kalp ve büyük damarlar
+synpic36696|bu bt taraması vücudun hangi bölümünü gösteriyor?|genitoüriner sistem
+synpic53727|vücudun hangi kısmı görüntüleniyor?|kalp ve büyük damarlar
+synpic42170|burada hangi organ sistemi gösteriliyor?|akciğer, mediasten ve plevra
+synpic34794|bu mrg’de esas olarak gösterilen organ nedir?|kafatası ve intrakraniyal yapılar
+synpic49970|görüntüde hangi organ sistemi gösteriliyor?|gastrointestinal sistem
+synpic47975|what is the organ principally shown in this gastrointestinal image?|gastrointestinal sistem
+synpic40559|hangi organ sistemi görüntülendi?|omurga ve spinal kanal içeriği
+synpic57757|hangi organ sistemi görüntülendi?|kafatası ve intrakraniyal yapılar
+synpic21602|bu röntgende hangi organ sistemi gösteriliyor?|kas-iskelet sistemi
+synpic47342|görüntüde hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic16119|bu mr görüntüsünde hangi organ sistemi gösteriliyor?|yüz, paranazal sinüsler ve boyun
+synpic48065|hangi organ sistemi görüntüleniyor?|kafatası ve intrakraniyal yapılar
+synpic51285|öncelikli olarak hangi organ sistemi değerlendiriliyor?|kafatası ve intrakraniyal yapılar
+synpic36236|vücudun hangi kısmı görüntüleniyor?|akciğer, mediasten ve plevra
+synpic28587|burada hangi organ sistemi gösteriliyor?|yüz, paranazal sinüsler ve boyun
+synpic50366|bu görüntüde görülen organ sistemlerinden biri nedir?|kafatası ve intrakraniyal yapılar
+synpic28544|bu gastrointestinal görüntü vücudun hangi bölümünü gösteriyor?|gastrointestinal sistem
+synpic37470|burada vücudun hangi kısmı görüntüleniyor?|vasküler ve lenfatik sistem
+synpic38742|vücudun hangi kısmı görüntüleniyor?|gastrointestinal sistem
+synpic42788|mrg hangi organ sistemini gösteriyor?|kafatası ve intrakraniyal yapılar
+synpic43455|öncelikli olarak hangi organ sistemi değerlendiriliyor?|akciğer, mediasten ve plevra
+synpic55545|hangi organ sistemi görüntülendi?|kafatası ve intrakraniyal yapılar
+synpic38795|hangi organ sistemi görüntüleniyor?|kafatası ve intrakraniyal yapılar
+synpic60065|bu mrg’yle hangi organ görüntülendi?|kas-iskelet sistemi
+synpic18848|hangi organ sistemi görüntülendi?|gastrointestinal sistem
+synpic49352|bu görüntüde öncelikli olarak hangi organ sistemi mevcut?|gastrointestinal sistem
+synpic23766|bu mr vücudun hangi bölümünü gösteriyor?|kafatası ve intrakraniyal yapılar
+synpic50039|bu görüntüde öncelikli olarak hangi organ sistemi mevcut?|omurga ve spinal kanal içeriği
+synpic40000|hangi organ sistemi görüntüleniyor?|kafatası ve intrakraniyal yapılar
+synpic54713|bu ultrasonla hangi organ görüntülendi?|yüz, paranazal sinüsler ve boyun
+synpic45150|bu mr vücudun hangi bölümünü gösteriyor?|kafatası ve intrakraniyal yapılar
+synpic47023|bu mr görüntüsünde hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic53042|mrg hangi organ sistemini gösteriyor?|kafatası ve intrakraniyal yapılar
+synpic47751|burada vücudun hangi kısmı görüntüleniyor?|kafatası ve intrakraniyal yapılar
+synpic57218|vücudun hangi kısmı görüntüleniyor?|kas-iskelet sistemi
+synpic30532|hangi organ sistemi görüntülendi?|omurga ve spinal kanal içeriği
+synpic22136|hangi organ sistemi görüntüleniyor?|meme
+synpic24235|hangi organ sistemi görüntülendi?|genitoüriner sistem
+synpic48112|bu görüntüde öncelikli olarak hangi organ sistemi mevcut?|genitoüriner sistem
+synpic14645|bu görüntüde görülen organ sistemlerinden biri nedir?|kas-iskelet sistemi
+synpic58329|mrg hangi organ sistemini gösteriyor?|kafatası ve intrakraniyal yapılar
+synpic50775|öncelikli olarak hangi organ sistemi değerlendiriliyor?|omurga ve spinal kanal içeriği
+synpic18902|bu görüntüde görülen organ sistemlerinden biri nedir?|kas-iskelet sistemi
+synpic35648|bu görüntüde öncelikli olarak hangi organ sistemi mevcut?|vasküler ve lenfatik sistem
+synpic26620|bu görüntüdeki organ sistemi nedir?|gastrointestinal sistem
+synpic48066|burada hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic39853|burada vücudun hangi kısmı görüntüleniyor?|gastrointestinal sistem
+synpic27338|hangi organ sistemi görüntülendi?|kas-iskelet sistemi
+synpic37881|bu mr vücudun hangi bölümünü gösteriyor?|omurga ve spinal kanal içeriği
+synpic33629|bu mrg’yle hangi organ görüntülendi?|kafatası ve intrakraniyal yapılar
+synpic53877|bu mrg’yle hangi organ görüntülendi?|kafatası ve intrakraniyal yapılar
+synpic39463|hangi organ sistemi görselleştiriliyor?|kafatası ve intrakraniyal yapılar
+synpic43481|bu görüntüde öncelikli olarak hangi organ sistemi mevcut?|yüz, paranazal sinüsler ve boyun
+synpic32126|hangi organ sistemi görüntüleniyor?|vasküler ve lenfatik sistem
+synpic44926|bu mr görüntüsü hangi organı gösteriyor?|kas-iskelet sistemi
+synpic58300|bu mr görüntüsünde hangi organ sistemi gösteriliyor?|omurga ve spinal kanal içeriği
+synpic25880|burada hangi organ sistemi gösteriliyor?|gastrointestinal sistem
+synpic16292|görüntüde hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic51136|burada hangi organ sistemi gösteriliyor?|akciğer, mediasten ve plevra
+synpic49209|burada hangi organ sistemi gösteriliyor?|kas-iskelet sistemi
+synpic55813|görüntüde hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic46847|görüntüde hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic45382|hangi organ sistemi görüntüleniyor?|omurga ve spinal kanal içeriği
+synpic55026|bu mrg’yle hangi organ görüntülendi?|kafatası ve intrakraniyal yapılar
+synpic21980|bu görüntüde görülen organ sistemlerinden biri nedir?|akciğer, mediasten ve plevra
+synpic48249|mrg hangi organ sistemini gösteriyor?|kafatası ve intrakraniyal yapılar
+synpic54648|öncelikli olarak hangi organ sistemi değerlendiriliyor?|vasküler ve lenfatik sistem
+synpic16484|bu görüntü hangi organa ait?|meme
+synpic43447|öncelikli olarak hangi organ sistemi değerlendiriliyor?|gastrointestinal sistem
+synpic54675|bu mrg’de hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic29463|hangi organ sistemi görüntülendi?|vasküler ve lenfatik sistem
+synpic47351|öncelikli olarak hangi organ sistemi değerlendiriliyor?|kafatası ve intrakraniyal yapılar
+synpic17228|burada vücudun hangi kısmı görüntüleniyor?|kas-iskelet sistemi
+synpic51490|hangi organ sistemi görselleştiriliyor?|gastrointestinal sistem
+synpic35880|bu görüntüde öncelikli olarak hangi organ sistemi mevcut?|kafatası ve intrakraniyal yapılar
+synpic34552|bu mrg’yle hangi organ görüntülendi?|kafatası ve intrakraniyal yapılar
+synpic52166|bu bt taramasıyla hangi organ görüntülendi?|kas-iskelet sistemi
+synpic21188|hangi organ sistemi görüntüleniyor?|omurga ve spinal kanal içeriği
+synpic57585|bu röntgen vücudun hangi bölümünü gösteriyor?|omurga ve spinal kanal içeriği
+synpic40947|bu görüntüdeki organ sistemi nedir?|kafatası ve intrakraniyal yapılar
+synpic29098|vücudun hangi kısmı görüntüleniyor?|meme
+synpic44506|bu mrg’de hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic52364|görüntüde hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic57208|bu bt taramasında hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic57578|vücudun hangi kısmı görüntüleniyor?|kafatası ve intrakraniyal yapılar
+synpic58887|vücudun hangi kısmı görüntüleniyor?|kafatası ve intrakraniyal yapılar
+synpic50565|vücudun hangi kısmı görüntüleniyor?|gastrointestinal sistem
+synpic56114|mrg hangi organ sistemini gösteriyor?|kafatası ve intrakraniyal yapılar
+synpic23560|görüntüde hangi organ sistemi gösteriliyor?|gastrointestinal sistem
+synpic34008|öncelikli olarak hangi organ sistemi değerlendiriliyor?|akciğer, mediasten ve plevra
+synpic16083|burada vücudun hangi kısmı görüntüleniyor?|kalp ve büyük damarlar
+synpic52004|hangi organ sistemi görselleştiriliyor?|kafatası ve intrakraniyal yapılar
+synpic15401|bu görüntü hangi organa ait?|kalp ve büyük damarlar
+synpic57801|hangi organ sistemi görüntülendi?|kafatası ve intrakraniyal yapılar
+synpic25267|burada hangi organ sistemi gösteriliyor?|gastrointestinal sistem
+synpic34632|bu bt taramasında hangi organ sistemi gösteriliyor?|omurga ve spinal kanal içeriği
+synpic45021|bu bt taraması vücudun hangi bölümünü gösteriyor?|vasküler ve lenfatik sistem
+synpic50410|hangi organ sistemi görüntüleniyor?|kafatası ve intrakraniyal yapılar
+synpic47178|hangi organ sistemi görselleştiriliyor?|kas-iskelet sistemi
+synpic40398|hangi organ sistemi görüntülendi?|kafatası ve intrakraniyal yapılar
+synpic18681|bu mrg ile hangi organ sistemleri değerlendirilebilir?|kafatası ve intrakraniyal yapılar
+synpic38551|bu görüntüdeki organ sistemi nedir?|kafatası ve intrakraniyal yapılar
+synpic36540|bu görüntüde görülen organ sistemlerinden biri nedir?|kafatası ve intrakraniyal yapılar
+synpic17203|vücudun hangi kısmı görüntüleniyor?|gastrointestinal sistem
+synpic57633|hangi organ sistemi görüntülendi?|omurga ve spinal kanal içeriği
+synpic56511|bu mr görüntüsünde hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic29500|röntgen hangi organ sistemini gösteriyor?|gastrointestinal sistem
+synpic48897|öncelikli olarak hangi organ sistemi değerlendiriliyor?|kafatası ve intrakraniyal yapılar
+synpic45196|bu mr görüntüsünde hangi organ sistemi gösteriliyor?|yüz, paranazal sinüsler ve boyun
+synpic45828|burada hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic60458|burada vücudun hangi kısmı görüntüleniyor?|kas-iskelet sistemi
+synpic43524|hangi organ sistemi görüntüleniyor?|kafatası ve intrakraniyal yapılar
+synpic59568|görüntüde hangi organ sistemi gösteriliyor?|kafatası ve intrakraniyal yapılar
+synpic48459|bu mrg’de hangi organ sistemi gösteriliyor?|omurga ve spinal kanal içeriği
